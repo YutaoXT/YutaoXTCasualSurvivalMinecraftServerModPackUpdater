@@ -1,7 +1,7 @@
 {
   "name": "第4次大更新版本\u0026可自动更新\u0026内含启动器-更新来源github",
   "author": "郁陶晓天",
-  "version": "2.0",
+  "version": "3.0",
   "description": "",
   "fileApi": "https://raw.githubusercontent.com/YutaoXT/YutaoXTCasualSurvivalMinecraftServerModPackUpdater/refs/heads/main",
   "files": [
@@ -174,7 +174,7 @@
       "hash": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
     },
     {
-      "path": "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+      "path": "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar.disabled",
       "hash": "bb422d5626bf69841e444a3e545c8e71b6928cf8"
     },
     {
@@ -230,10 +230,6 @@
       "hash": "0ddc174a52973036e5fcfd2fb72686b3b18aed3f"
     },
     {
-      "path": "mods/ysm-2.5.3-forge+mc1.20.1-release.jar",
-      "hash": "b0c727d986d7eea6c130890b5f1244acbe355d26"
-    },
-    {
       "path": "mods/[Xaero的世界地图] XaerosWorldMap_1.39.12_Forge_1.20.jar",
       "hash": "3c4005a400ba8270738bbe4c573526749ecf2f8f"
     },
@@ -271,7 +267,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "c3315b1b744ffbd6d67e5d4a1a008fffe73e37a2"
+      "hash": "9aa22249b76c98544579849622f9a034fd90c047"
     },
     {
       "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
@@ -815,7 +811,7 @@
     },
     {
       "path": "servers.dat",
-      "hash": "84a431c1dd14437ebd9c715c270f7665137e78ca"
+      "hash": "9069f09354bc964434fec8075d2ed787845f8ca6"
     },
     {
       "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip",
