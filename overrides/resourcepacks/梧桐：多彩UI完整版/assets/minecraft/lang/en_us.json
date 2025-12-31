@@ -1,0 +1,272 @@
+{
+
+
+  "container.brewing": "\ub110§f\ub100                                                                           ",
+  "container.dispenser": "§f\ub114",
+  "container.dropper": "§f\ub115",
+  "container.enderchest": "\ub110§f\ub111",
+  "container.barrel": "\ub110§f\ub116",
+  "entity.minecraft.hopper_minecart": "                  §f\ub118",
+  "entity.minecraft.chest_minecart": "                  §f\ub118",
+  "entity.minecraft.oak_chest_boat": "                  §f\ub117",
+  "entity.minecraft.spruce_chest_boat": "                  §f\ub117",
+  "entity.minecraft.birch_chest_boat": "                  §f\ub117",
+  "entity.minecraft.jungle_chest_boat": "                  §f\ub117",
+  "entity.minecraft.acacia_chest_boat": "                  §f\ub117",
+  "entity.minecraft.dark_oak_chest_boat": "                  §f\ub117",
+  "entity.minecraft.mangrove_chest_boat": "                  §f\ub117",
+  "entity.minecraft.cherry_chest_boat": "                  §f\ub117",
+  "entity.minecraft.pale_oak_chest_boat": "                  §f\ub117",
+  "entity.minecraft.bamboo_chest_raft": "                  §f\ub117",
+
+
+
+  "container.inventory": "",
+  "container.loom":"",
+  "container.repair":"",
+  "container.crafter": "",
+  "container.furnace": "",
+  "container.smoker": "",
+  "container.hopper": "",
+  "container.upgrade": "",
+  "container.shulkerBox": " ",
+  "container.chest": " ",
+  "container.chestDouble": " ",
+  "container.cartography_table": "",
+  "container.stonecutter": "",
+  "container.grindstone_title": "",
+  "container.enchant": "",
+  "container.crafting": "",
+  "block.minecraft.beacon.primary": "",
+  "block.minecraft.beacon.secondary": "",
+
+  "multiplayer.unsecureserver.toast.title": "",
+  "multiplayer.unsecureserver.toast": "",
+
+
+
+"item.minecraft.apple": "Apple §f\ub113\ub113",
+"item.minecraft.golden_apple": "Golden Apple §f\ub113\ub113",
+"item.minecraft.enchanted_golden_apple": "Enchanted Golden Apple §f\ub113\ub113",
+"item.minecraft.melon_slice": "Melon Slice §f\ub113",
+"item.minecraft.sweet_berries": "Sweet Berries §f\ub113",
+"item.minecraft.glow_berries": "Glow Berries §f\ub113",
+"item.minecraft.chorus_fruit": "Chorus Fruit §f\ub113\ub113",
+"item.minecraft.carrot": "Carrot §f\ub112\ub113",
+"item.minecraft.golden_carrot": "Golden Carrot §f\ub113\ub113\ub113",
+
+"item.minecraft.potato": "Potato §f\ub112",
+"item.minecraft.baked_potato": "Baked Potato §f\ub112\ub113\ub113",
+"item.minecraft.poisonous_potato": "Poisonous Potato §f\ub113",
+"item.minecraft.beetroot": "Beetroot §f\ub112",
+"item.minecraft.dried_kelp": "Dried Kelp §f\ub112",
+"item.minecraft.beef": "Raw Beef §f\ub112\ub113",
+"item.minecraft.cooked_beef": "Steak §f\ub113\ub113\ub113\ub113",
+"item.minecraft.porkchop": "Raw Porkchop §f\ub112\ub113",
+"item.minecraft.cooked_porkchop": "Cooked Porkchop §f\ub113\ub113\ub113\ub113",
+
+"item.minecraft.mutton": "Raw Mutton §f\ub113",
+"item.minecraft.cooked_mutton": "Cooked Mutton §f\ub113\ub113\ub113",
+"item.minecraft.chicken": "Raw Chicken §f\ub113",
+"item.minecraft.cooked_chicken": "Cooked Chicken §f\ub113\ub113\ub113",
+"item.minecraft.rabbit": "Raw Rabbit §f\ub112\ub113",
+"item.minecraft.cooked_rabbit": "Cooked Rabbit §f\ub112\ub113\ub113",
+"item.minecraft.cod": "Raw Cod §f\ub113",
+"item.minecraft.cooked_cod": "Cooked Cod §f\ub112\ub113\ub113",
+"item.minecraft.salmon": "Raw Salmon §f\ub113",
+
+"item.minecraft.cooked_salmon": "Cooked Salmon §f\ub113\ub113\ub113",
+"item.minecraft.tropical_fish": "Tropical Fish §f\ub112",
+"item.minecraft.pufferfish": "Pufferfish §f\ub112",
+"item.minecraft.bread": "Bread §f\ub112\ub113\ub113",
+"item.minecraft.cookie": "Cookie §f\ub113",
+"item.minecraft.pumpkin_pie": "Pumpkin Pie §f\ub113\ub113\ub113\ub113",
+"item.minecraft.rotten_flesh": "Rotten Flesh §f\ub113\ub113",
+"item.minecraft.spider_eye": "Spider Eye §f\ub113",
+
+"item.minecraft.mushroom_stew": "Mushroom Stew §f\ub113\ub113\ub113",
+"item.minecraft.beetroot_soup": "Beetroot Soup §f\ub113\ub113\ub113",
+"item.minecraft.rabbit_stew": "Rabbit Stew §f\ub113\ub113\ub113\ub113\ub113",
+"item.minecraft.suspicious_stew": "Suspicious Stew §f\ub113\ub113\ub113",
+"item.minecraft.honey_bottle": "Honey Bottle §f\ub113\ub113\ub113",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      "menu.options": "Options",
+      "menu.shareToLan": "LAN",
+      "menu.sendFeedback": "Feedback",
+      "gui.stats": "Stats",
+      "options.skinCustomisation": "Skin",
+      "options.controls": "Controls",
+      "options.language": "Language",
+      "options.chat.title": "Chat",
+      "options.chat": "Chat",
+      "options.resourcepack": "Resourcepack",
+      "options.accessibility.title": "Accessibility",
+      "options.accessibility": "Accessibility",
+      "options.sounds": "Sounds",
+      "options.telemetry": "Telemetry",
+      "options.credits_and_attribution": "Credits",
+      "options.online": "Online",
+      "options.video": "Video",
+
+
+
+"painting.minecraft.alban.title": "Albanian §f\uA070",
+"painting.minecraft.aztec.title": "de_aztec §f\uA071",
+"painting.minecraft.aztec2.title": "de_aztec §f\uA072",
+"painting.minecraft.backyard.title": "Backyard §f\uA073",
+"painting.minecraft.baroque.title": "Baroque §f\uA074",
+"painting.minecraft.bomb.title": "Target Successfully Bombed §f\uA075",
+"painting.minecraft.bouquet.title": "Bouquet §f\uA076",
+"painting.minecraft.burning_skull.title": "Skull On Fire §f\uA077",
+"painting.minecraft.bust.title": "Bust    §f\uA078",
+"painting.minecraft.cavebird.title": "Cavebird §f\uA079",
+"painting.minecraft.changing.title": "Changing §f\uA080",
+"painting.minecraft.cotan.title": "Cotán   §f\uA081",
+"painting.minecraft.courbet.title": "Bonjour Monsieur Courbet §f\uA082",
+"painting.minecraft.creebet.title": "Creebet §f\uA083",
+"painting.minecraft.donkey_kong.title": "Kong    §f\uA084",
+"painting.minecraft.earth.title": "Earth     §f\uA085",
+"painting.minecraft.endboss.title": "Endboss §f\uA086",
+"painting.minecraft.fern.title": "Fern    §f\uA087",
+"painting.minecraft.fighters.title": "Fighters §f\uA088",
+"painting.minecraft.finding.title": "Finding §f\uA089",
+"painting.minecraft.fire.title": "Fire       §f\uA090",
+"painting.minecraft.graham.title": "Graham §f\uA091",
+"painting.minecraft.humble.title": "Humble §f\uA092",
+"painting.minecraft.kebab.title": "Kebab med tre pepperoni §f\uA093",
+"painting.minecraft.lowmist.title": "Lowmist §f\uA094",
+"painting.minecraft.match.title": "Match   §f\uA095",
+"painting.minecraft.meditative.title": "Meditative §f\uA096",
+"painting.minecraft.orb.title": "Orb      §f\uA097",
+"painting.minecraft.owlemons.title": "Owlemons §f\uA098",
+"painting.minecraft.passage.title": "Passage §f\uA099",
+"painting.minecraft.pigscene.title": "Pigscene §f\uA100",
+"painting.minecraft.plant.title": "Paradisträd §f\uA101",
+"painting.minecraft.pointer.title": "Pointer §f\uA102",
+"painting.minecraft.pond.title": "Pond    §f\uA103",
+"painting.minecraft.pool.title": "The Pool §f\uA104",
+"painting.minecraft.prairie_ride.title": "Prairie Ride §f\uA105",
+"painting.minecraft.sea.title": "Seaside §f\uA106",
+"painting.minecraft.skeleton.title": "Mortal Coil §f\uA107",
+"painting.minecraft.skull_and_roses.title": "Skull and Roses §f\uA108",
+"painting.minecraft.stage.title": "The Stage Is Set §f\uA109",
+"painting.minecraft.sunflowers.title": "Sunflowers §f\uA110",
+"painting.minecraft.sunset.title": "sunset_dense §f\uA111",
+"painting.minecraft.tides.title": "Tides    §f\uA112",
+"painting.minecraft.unpacked.title": "Unpacked §f\uA113",
+"painting.minecraft.void.title": "The void §f\uA114",
+"painting.minecraft.wanderer.title": "Wanderer §f\uA115",
+"painting.minecraft.wasteland.title": "Wasteland §f\uA116",
+"painting.minecraft.water.title": "Water     §f\uA117",
+"painting.minecraft.wind.title": "Wind       §f\uA118",
+"painting.minecraft.wither.title": "Wither   §f\uA119",
+
+
+
+
+
+
+
+"trim_pattern.minecraft.tide": "Tide Armor Trim §f\uA051",
+"trim_pattern.minecraft.bolt": "Bolt Armor Trim §f\uA052",
+"trim_pattern.minecraft.coast": "Coast Armor Trim §f\uA053",
+"trim_pattern.minecraft.dune": "Dune Armor Trim §f\uA054",
+"trim_pattern.minecraft.eye": "Eye Armor Trim §f\uA055",
+"trim_pattern.minecraft.flow": "Flow Armor Trim §f\uA056",
+"trim_pattern.minecraft.host": "Host Armor Trim §f\uA057",
+"trim_pattern.minecraft.raiser": "Raiser Armor Trim §f\uA058",
+"trim_pattern.minecraft.rib": "Rib Armor Trim §f\uA059",
+"trim_pattern.minecraft.sentry": "Sentry Armor Trim §f\uA060",
+"trim_pattern.minecraft.shaper": "Shaper Armor Trim §f\uA061",
+"trim_pattern.minecraft.silence": "Silence Armor Trim §f\uA062",
+"trim_pattern.minecraft.snout": "Snout Armor Trim §f\uA063",
+"trim_pattern.minecraft.spire": "Spire Armor Trim §f\uA064",
+"trim_pattern.minecraft.vex": "Vex Armor Trim §f\uA065",
+"trim_pattern.minecraft.ward": "Ward Armor Trim §f\uA066",
+"trim_pattern.minecraft.wayfinder": "Wayfinder Armor Trim §f\uA067",
+"trim_pattern.minecraft.wild": "Wild Armor Trim §f\uA068",
+
+
+
+
+
+
+
+
+"item.minecraft.skull_banner_pattern": "Banner Pattern   §f\uA004",
+"item.minecraft.globe_banner_pattern": "Banner Pattern   §f\uA005",
+"item.minecraft.mojang_banner_pattern": "Banner Pattern     §f\uA006",
+"item.minecraft.piglin_banner_pattern": "Banner Pattern   §f\uA007",
+"item.minecraft.flower_banner_pattern": "Banner Pattern   §f\uA008",
+"item.minecraft.flow_banner_pattern": "Banner Pattern   §f\uA009",
+"item.minecraft.guster_banner_pattern": "Banner Pattern   §f\uA010",
+"item.minecraft.creeper_banner_pattern": "Banner Pattern   §f\uA011",
+
+
+"item.minecraft.music_disc_13.desc": "C418 - 13 §f§41 §72:59",
+"item.minecraft.music_disc_cat.desc": "C418 - cat §f§42 §73:06",
+"item.minecraft.music_disc_blocks.desc": "C418 - blocks §f§43 §75:46",
+"item.minecraft.music_disc_chirp.desc": "C418 - chirp §f§44 §73:06",
+"item.minecraft.music_disc_far.desc": "C418 - far §f§45 §72:55",
+"item.minecraft.music_disc_mall.desc": "C418 - mall §f§46 §73:18",
+"item.minecraft.music_disc_mellohi.desc": "C418 - mellohi §f§47 §71:37",
+"item.minecraft.music_disc_stal.desc": "C418 - stal §f§48 §72:31",
+"item.minecraft.music_disc_strad.desc": "C418 - strad §f§49 §73:09",
+"item.minecraft.music_disc_ward.desc": "C418 - ward §f§410 §74:12",
+"item.minecraft.music_disc_11.desc": "C418 - 11 §f§411 §71:12",
+"item.minecraft.music_disc_creator_music_box.desc": "Lena Raine - Creator (Music Box) §f§411 §71:14",
+"item.minecraft.music_disc_creator.desc": "Lena Raine - Creator §f§412 §72:57",
+"item.minecraft.music_disc_wait.desc": "C418 - wait §f§412 §73:59",
+"item.minecraft.music_disc_pigstep.desc": "Lena Raine - Pigstep §f§413 §72:30",
+"item.minecraft.music_disc_precipice.desc": "Aaron Cherof - Precipice §f§413 §75:00",
+"item.minecraft.music_disc_otherside.desc": "Lena Raine - otherside §f§414 §73:16",
+"item.minecraft.music_disc_relic.desc": "Aaron Cherof - Relic §f§414 §73:39",
+"item.minecraft.music_disc_5.desc": "Samuel Åberg - 5 §f§415 §72:59",
+
+
+"jukebox_song.minecraft.13": "C418 - 13 §f§41 §72:59",
+"jukebox_song.minecraft.cat": "C418 - cat §f§42 §73:06",
+"jukebox_song.minecraft.blocks": "C418 - blocks §f§43 §75:46",
+"jukebox_song.minecraft.chirp": "C418 - chirp §f§44 §73:06",
+"jukebox_song.minecraft.far": "C418 - far §f§45 §72:55",
+"jukebox_song.minecraft.mall": "C418 - mall §f§46 §73:18",
+"jukebox_song.minecraft.mellohi": "C418 - mellohi §f§47 §71:37",
+"jukebox_song.minecraft.stal": "C418 - stal §f§48 §72:31",
+"jukebox_song.minecraft.strad": "C418 - strad §f§49 §73:09",
+"jukebox_song.minecraft.ward": "C418 - ward §f§410 §74:12",
+"jukebox_song.minecraft.11": "C418 - 11 §f§411 §71:12",
+"jukebox_song.minecraft.creator_music_box": "Lena Raine - Creator (Music Box) §f§411 §71:14",
+"jukebox_song.minecraft.creator": "Lena Raine - Creator §f§412 §72:57",
+"jukebox_song.minecraft.wait": "C418 - wait §f§412 §73:59",
+"jukebox_song.minecraft.pigstep": "Lena Raine - Pigstep §f§413 §72:30",
+"jukebox_song.minecraft.precipice": "Aaron Cherof - Precipice §f§413 §75:00",
+"jukebox_song.minecraft.otherside": "Lena Raine - otherside §f§414 §73:16",
+"jukebox_song.minecraft.relic": "Aaron Cherof - Relic §f§414 §73:39",
+"jukebox_song.minecraft.5": "Samuel Åberg - 5 §f§415 §72:59"
+
+
+
+
+
+
+
+
+
+
+
+
+}
