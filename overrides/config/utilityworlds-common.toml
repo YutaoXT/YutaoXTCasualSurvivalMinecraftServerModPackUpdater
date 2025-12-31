@@ -1,0 +1,10 @@
+
+#General settings
+[general]
+	# Set to true to allow portal blocks to be crafted by players.
+	allowPortalCrafting = true
+	# Set to true to enable the Garden World recipe.
+	enableGardenWorld = true
+	# Lowest y-level in the Mining World (can be -64 or 0, default is -64).
+	miningDimensionFloor = -64
+

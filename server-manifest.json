@@ -3,8 +3,2244 @@
   "author": "郁陶晓天",
   "version": "1.0",
   "description": "",
-  "fileApi": "https://gitee.com/yu-taoxiaotian/hmcl-modpack-update/raw/master",
+  "fileApi": "https://raw.githubusercontent.com/YutaoXT/YutaoXTCasualSurvivalMinecraftServerModPackUpdater/refs/heads/main",
   "files": [
+    {
+      "path": "config/ad_astra-client.jsonc",
+      "hash": "2e814ca406c40d95d13854663cb576c6e8cb8469"
+    },
+    {
+      "path": "config/ad_astra.jsonc",
+      "hash": "279a19d8d801d769333df955a1345f8c99ea968c"
+    },
+    {
+      "path": "config/aether/aether_customizations.txt",
+      "hash": "b9f71c03578eef752fe3c401112845574529aef1"
+    },
+    {
+      "path": "config/aether/sun_altar_whitelist.json",
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    {
+      "path": "config/aether-client.toml",
+      "hash": "2ad41ef08b1eb6deccb05cb25c41ab75d5a2132d"
+    },
+    {
+      "path": "config/aether-common.toml",
+      "hash": "e3a247d45d6e5b4521c2ec4424c97569632128d7"
+    },
+    {
+      "path": "config/alexsmobs/alligator_snapping_turtle_spawns.json",
+      "hash": "2fecd47dfe3901bf041cdbfd7762775aed8ff02b"
+    },
+    {
+      "path": "config/alexsmobs/anaconda_spawns.json",
+      "hash": "5276886bf74157b158f4a554b7674bcc3b25817c"
+    },
+    {
+      "path": "config/alexsmobs/anteater_spawns.json",
+      "hash": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d"
+    },
+    {
+      "path": "config/alexsmobs/bald_eagle_spawns.json",
+      "hash": "75bd4a673a5c6788f42a6bd6d2091127333efbcc"
+    },
+    {
+      "path": "config/alexsmobs/banana_slug_spawns.json",
+      "hash": "09614cac8bc432f04d9c00fc36ca5c19ee671957"
+    },
+    {
+      "path": "config/alexsmobs/bison_spawns.json",
+      "hash": "43af4f66f883adee9ae16a3e373eae6056e212c1"
+    },
+    {
+      "path": "config/alexsmobs/blobfish_spawns.json",
+      "hash": "f39ce83ec705fea5b1e181947ea3d690961a3556"
+    },
+    {
+      "path": "config/alexsmobs/blue_jay_spawns.json",
+      "hash": "4a704c533746078e7338f88c29f181166a092606"
+    },
+    {
+      "path": "config/alexsmobs/bone_serpent_spawns.json",
+      "hash": "a8f86f76bd08d4edf938eabb604cbb31c4b6ca48"
+    },
+    {
+      "path": "config/alexsmobs/bunfungus_spawns.json",
+      "hash": "984700d0723c99153ae6fe1ea99d960f9a9c2ee1"
+    },
+    {
+      "path": "config/alexsmobs/cachalot_whale_beached_spawns.json",
+      "hash": "c428aeede9825f740c73a8e600785aa8b2c2d009"
+    },
+    {
+      "path": "config/alexsmobs/cachalot_whale_spawns.json",
+      "hash": "725b91593440bd553a8a1aee2cc3d2fc11455519"
+    },
+    {
+      "path": "config/alexsmobs/caiman_spawns.json",
+      "hash": "2dc9908d8f42e786d38bbdaba6a4ea5249dfb13e"
+    },
+    {
+      "path": "config/alexsmobs/capuchin_monkey_spawns.json",
+      "hash": "aba297cc13e94b9bc3111e2918d0dcb4a9495cca"
+    },
+    {
+      "path": "config/alexsmobs/catfish_spawns.json",
+      "hash": "97c6120785c5e8c11bc2a3f8aee9dafaaf4aeddb"
+    },
+    {
+      "path": "config/alexsmobs/cave_centipede_spawns.json",
+      "hash": "5d660cef1ae0a0b876657cfc05714f149e5b5c90"
+    },
+    {
+      "path": "config/alexsmobs/cockroach_spawns.json",
+      "hash": "82e37fd704a5a10f7fa31b7b1107d2c1635887fe"
+    },
+    {
+      "path": "config/alexsmobs/comb_jelly_spawns.json",
+      "hash": "ced1e6a35f9debfda11e579fdd8d45a340c05630"
+    },
+    {
+      "path": "config/alexsmobs/cosmaw_spawns.json",
+      "hash": "59349c0f99f2b4f452326602e27ca30a56094c22"
+    },
+    {
+      "path": "config/alexsmobs/cosmic_cod_spawns.json",
+      "hash": "6d2ab311e1f341a4874c15ae97e420562b035c3a"
+    },
+    {
+      "path": "config/alexsmobs/crimson_mosquito_spawns.json",
+      "hash": "630cc53b571699dfa586a266d4f1e140add4569f"
+    },
+    {
+      "path": "config/alexsmobs/crocodile_spawns.json",
+      "hash": "f22c0286d65b7d5a181fe43c144f4ef689e14cde"
+    },
+    {
+      "path": "config/alexsmobs/crow_spawns.json",
+      "hash": "c0dc5411da87174f0039b79b6eef90d3d9b570cf"
+    },
+    {
+      "path": "config/alexsmobs/devils_hole_pupfish_spawns.json",
+      "hash": "72c87498fe92bbaedac0dd8f17fe45cd39f10175"
+    },
+    {
+      "path": "config/alexsmobs/dropbear_spawns.json",
+      "hash": "ee7447520b865a4a312e3ff51c7f562f15a95c1e"
+    },
+    {
+      "path": "config/alexsmobs/elephant_spawns.json",
+      "hash": "174b8af7c5357d42f6c3d7cf46000abf001026c9"
+    },
+    {
+      "path": "config/alexsmobs/emu_spawns.json",
+      "hash": "1350a531f941af07b0c590c6b03eed79569df58b"
+    },
+    {
+      "path": "config/alexsmobs/endergrade_spawns.json",
+      "hash": "876c128ed4fc894d61aab0eb2c735e64fa6dc417"
+    },
+    {
+      "path": "config/alexsmobs/enderiophage_spawns.json",
+      "hash": "b343e2bd88950cc0f5db7041b1a7708ffb51c5fb"
+    },
+    {
+      "path": "config/alexsmobs/farseer.json",
+      "hash": "c5b5e8f7e9abfe66d5afc97649eba09c4cfc1139"
+    },
+    {
+      "path": "config/alexsmobs/flutter_spawns.json",
+      "hash": "c7d78e61a3ded23ae0af88640b4f6e3788d91462"
+    },
+    {
+      "path": "config/alexsmobs/flying_fish_spawns.json",
+      "hash": "a2d8bb4c6f9b649b71187bbabd4ea33c0426bfa8"
+    },
+    {
+      "path": "config/alexsmobs/fly_spawns.json",
+      "hash": "72c87498fe92bbaedac0dd8f17fe45cd39f10175"
+    },
+    {
+      "path": "config/alexsmobs/frilled_shark_spawns.json",
+      "hash": "f39ce83ec705fea5b1e181947ea3d690961a3556"
+    },
+    {
+      "path": "config/alexsmobs/froststalker_spawns.json",
+      "hash": "707c1d78e16032957b1b047a3559006883a66aa6"
+    },
+    {
+      "path": "config/alexsmobs/gazelle_spawns.json",
+      "hash": "f7ef705fb7988c423de961ecf5b6b50207e7508c"
+    },
+    {
+      "path": "config/alexsmobs/gelada_monkey_spawns.json",
+      "hash": "c44a53e041c9ae8e3902fa56954db39ce3d5a45b"
+    },
+    {
+      "path": "config/alexsmobs/giant_squid_spawns.json",
+      "hash": "f39ce83ec705fea5b1e181947ea3d690961a3556"
+    },
+    {
+      "path": "config/alexsmobs/gorilla_spawns.json",
+      "hash": "dbdc0203d5147edd4d7b9483b05778b381839ee2"
+    },
+    {
+      "path": "config/alexsmobs/grizzly_bear_spawns.json",
+      "hash": "4a704c533746078e7338f88c29f181166a092606"
+    },
+    {
+      "path": "config/alexsmobs/guster_spawns.json",
+      "hash": "53d844c2dd6d3115cfe9a080261001f8decea616"
+    },
+    {
+      "path": "config/alexsmobs/hammerhead_shark_spawns.json",
+      "hash": "771d7ce1bcd62741842c859ac372703137baf3e5"
+    },
+    {
+      "path": "config/alexsmobs/hummingbird_spawns.json",
+      "hash": "87a5239ac83733283bda909fd7247cc8bdb7f68a"
+    },
+    {
+      "path": "config/alexsmobs/jerboa_spawns.json",
+      "hash": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a"
+    },
+    {
+      "path": "config/alexsmobs/kangaroo_spawns.json",
+      "hash": "1350a531f941af07b0c590c6b03eed79569df58b"
+    },
+    {
+      "path": "config/alexsmobs/komodo_dragon_spawns.json",
+      "hash": "878fc300de29d16d3bdbb5ec7f02cc2c1cce77ef"
+    },
+    {
+      "path": "config/alexsmobs/laviathan_spawns.json",
+      "hash": "b35947925d599eb04ee7075af6810dbe7b515052"
+    },
+    {
+      "path": "config/alexsmobs/leafcutter_anthill_spawns.json",
+      "hash": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d"
+    },
+    {
+      "path": "config/alexsmobs/lobster_spawns.json",
+      "hash": "bfa5934e707e1a5fac743d40eede8a78dae13ff1"
+    },
+    {
+      "path": "config/alexsmobs/maned_wolf_spawns.json",
+      "hash": "e7262e3a8d7dea88c22540ac36efd9b82524384e"
+    },
+    {
+      "path": "config/alexsmobs/mantis_shrimp_spawns.json",
+      "hash": "72ad572808fccf9db8b712f10c183d2a4b7553f1"
+    },
+    {
+      "path": "config/alexsmobs/mimicube_spawns.json",
+      "hash": "cd826a993f60f9e7d48610c8d2ee7fe5f9742759"
+    },
+    {
+      "path": "config/alexsmobs/mimic_octopus_spawns.json",
+      "hash": "5862e4f48b9ff0a91ae853b372ff39c1fdc1d811"
+    },
+    {
+      "path": "config/alexsmobs/moose_spawns.json",
+      "hash": "0338509e62946b67dab42a836e3f7173816d7e60"
+    },
+    {
+      "path": "config/alexsmobs/mudskipper_spawns.json",
+      "hash": "2dc9908d8f42e786d38bbdaba6a4ea5249dfb13e"
+    },
+    {
+      "path": "config/alexsmobs/mungus_spawns.json",
+      "hash": "984700d0723c99153ae6fe1ea99d960f9a9c2ee1"
+    },
+    {
+      "path": "config/alexsmobs/murmur.json",
+      "hash": "5d660cef1ae0a0b876657cfc05714f149e5b5c90"
+    },
+    {
+      "path": "config/alexsmobs/orca_spawns.json",
+      "hash": "146e692c90be265b1613fd9b1408f8ade11664e4"
+    },
+    {
+      "path": "config/alexsmobs/platypus_spawns.json",
+      "hash": "9eab8f02129434149d2987a9cc819e9ca7e5b7fe"
+    },
+    {
+      "path": "config/alexsmobs/potoo_spawns.json",
+      "hash": "426052ea6d093fe878779db6e1951a8accec897f"
+    },
+    {
+      "path": "config/alexsmobs/raccoon_spawns.json",
+      "hash": "aed625d8aa3416b513dc42f69c63804bbd5f4844"
+    },
+    {
+      "path": "config/alexsmobs/rain_frog_spawns.json",
+      "hash": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a"
+    },
+    {
+      "path": "config/alexsmobs/rattlesnake_spawns.json",
+      "hash": "19d14f488a5838da1ce23d99c992daf473b85b71"
+    },
+    {
+      "path": "config/alexsmobs/rhinoceros_spawns.json",
+      "hash": "f7ef705fb7988c423de961ecf5b6b50207e7508c"
+    },
+    {
+      "path": "config/alexsmobs/roadrunner_spawns.json",
+      "hash": "19d14f488a5838da1ce23d99c992daf473b85b71"
+    },
+    {
+      "path": "config/alexsmobs/rocky_roller_spawns.json",
+      "hash": "f31c14bed619ed97480a4aedc5aa194f4c1370ca"
+    },
+    {
+      "path": "config/alexsmobs/seagull_spawns.json",
+      "hash": "c4e332410fcd6b13ec92c7a15f142e5155cb5274"
+    },
+    {
+      "path": "config/alexsmobs/seal_spawns.json",
+      "hash": "5ba26fd7341af3fde7f8d10e5f02610e50019c7e"
+    },
+    {
+      "path": "config/alexsmobs/shoebill_spawns.json",
+      "hash": "8f030f0a1139b65cb6e92e4984c48cdd10ffcbaa"
+    },
+    {
+      "path": "config/alexsmobs/skelewag_spawns.json",
+      "hash": "75a57df134990d2a97421412ee78f9111c38d41b"
+    },
+    {
+      "path": "config/alexsmobs/skreecher.json",
+      "hash": "740c686d3f6779fd3489b45d7b2efd266d61a448"
+    },
+    {
+      "path": "config/alexsmobs/skunk_spawns.json",
+      "hash": "0076cc9f728c452cf22a59943a7fae1db2c71f26"
+    },
+    {
+      "path": "config/alexsmobs/snow_leopard_spawns.json",
+      "hash": "969c78799fd70bc5ad20ce46a157b14ac4b7d6df"
+    },
+    {
+      "path": "config/alexsmobs/soul_vulture_spawns.json",
+      "hash": "d5308c6dc90f1a0d12707301407de4ff104b09d5"
+    },
+    {
+      "path": "config/alexsmobs/spectre_spawns.json",
+      "hash": "876c128ed4fc894d61aab0eb2c735e64fa6dc417"
+    },
+    {
+      "path": "config/alexsmobs/straddler_spawns.json",
+      "hash": "e4c76844b021e21b41fb5c9576bf09312c77b845"
+    },
+    {
+      "path": "config/alexsmobs/stradpole_spawns.json",
+      "hash": "e4c76844b021e21b41fb5c9576bf09312c77b845"
+    },
+    {
+      "path": "config/alexsmobs/sugar_glider_spawns.json",
+      "hash": "62d2952af8a99284a2072613584475532fa3976d"
+    },
+    {
+      "path": "config/alexsmobs/sunbird_spawns.json",
+      "hash": "d00d854a7a859be448d448854a489fb4bf5b3754"
+    },
+    {
+      "path": "config/alexsmobs/tarantula_hawk_spawns.json",
+      "hash": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a"
+    },
+    {
+      "path": "config/alexsmobs/tasmanian_devil_spawns.json",
+      "hash": "167c8f350e93cdfe00e85956dfa7fe40363cda1d"
+    },
+    {
+      "path": "config/alexsmobs/terrapin_spawns.json",
+      "hash": "9eab8f02129434149d2987a9cc819e9ca7e5b7fe"
+    },
+    {
+      "path": "config/alexsmobs/tiger_spawns.json",
+      "hash": "50c690955ef10c27602d6cc9a146721998408c20"
+    },
+    {
+      "path": "config/alexsmobs/toucan_spawns.json",
+      "hash": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d"
+    },
+    {
+      "path": "config/alexsmobs/triops_spawns.json",
+      "hash": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a"
+    },
+    {
+      "path": "config/alexsmobs/tusklin_spawns.json",
+      "hash": "34c622e3e5c3839d628085fc1cf0fdc4d93d0e5a"
+    },
+    {
+      "path": "config/alexsmobs/underminer.json",
+      "hash": "82e37fd704a5a10f7fa31b7b1107d2c1635887fe"
+    },
+    {
+      "path": "config/alexsmobs/void_worm_spawns.json",
+      "hash": "1ae814f47278ae5e83f93b711cb1b22df42fa5c4"
+    },
+    {
+      "path": "config/alexsmobs/warped_mosco_spawns.json",
+      "hash": "1ae814f47278ae5e83f93b711cb1b22df42fa5c4"
+    },
+    {
+      "path": "config/alexsmobs/warped_toad_spawns.json",
+      "hash": "5cd292af241f4ee8699dc810bccdcfe29135fcc9"
+    },
+    {
+      "path": "config/alexsmobs.toml",
+      "hash": "36ca9d04900eb44d382360308d6ca622901da82c"
+    },
+    {
+      "path": "config/appleskin-client.toml",
+      "hash": "01ddb88e420140c33e4cfc0c105edd6e40a5f2c7"
+    },
+    {
+      "path": "config/betteranimationscollection-client.toml",
+      "hash": "ec79ec6bca34667698170beed40cf762696ac9fa"
+    },
+    {
+      "path": "config/c2me.toml",
+      "hash": "c2cc98fb04cf16b50aef1c7f055e834b7eed6139"
+    },
+    {
+      "path": "config/chatimageconfig.json",
+      "hash": "a9e3546fc276c5486ce9427eb951dcbb88a31901"
+    },
+    {
+      "path": "config/chat_heads.json5",
+      "hash": "54fb55039959a3a24af55fc36792534696b61668"
+    },
+    {
+      "path": "config/citadel-common.toml",
+      "hash": "f3aad9442cc4ae95760ceb68f75d5735e9247f6a"
+    },
+    {
+      "path": "config/citresewn.json",
+      "hash": "7f280f3b7f06f1ebce74495eb26677a5f58f2904"
+    },
+    {
+      "path": "config/connector.json",
+      "hash": "23753ccb810b4975165448040217d5c5d55a8322"
+    },
+    {
+      "path": "config/cosmeticarmorreworked-client.toml",
+      "hash": "ae16b9d64e0ce6a136e8feb2533859729fb4daf9"
+    },
+    {
+      "path": "config/cosmeticarmorreworked-common.toml",
+      "hash": "1c8e89f7f3f6a305ca79dd5b32511aea9c6a6f36"
+    },
+    {
+      "path": "config/create-client.toml",
+      "hash": "f0e3b28d365068349fb5c06215da6f76dfd4497c"
+    },
+    {
+      "path": "config/create-common.toml",
+      "hash": "41cda6916fe6ee82d14411d094f884862ef2b3de"
+    },
+    {
+      "path": "config/createaddition-common.toml",
+      "hash": "0d56e3d118eef998d420e0ee11d784442f3595a9"
+    },
+    {
+      "path": "config/createsifter-client.toml",
+      "hash": "7ac6bb605e10eee9a309d16d17ac148fee47bcab"
+    },
+    {
+      "path": "config/createsifter-common.toml",
+      "hash": "851fe9adf641be197163273c314d59f0b1558d33"
+    },
+    {
+      "path": "config/create_connected-common.toml",
+      "hash": "f18e32acc7dd19090285b31202274fdd9f0bffa9"
+    },
+    {
+      "path": "config/create_new_age-client.toml",
+      "hash": "496d11b4d81138333a0dc9bc8cf12689e5626eea"
+    },
+    {
+      "path": "config/create_new_age-common.toml",
+      "hash": "69f95f81e58a20ef9076b63709403c63ebdd569d"
+    },
+    {
+      "path": "config/cumulus_menus-client.toml",
+      "hash": "c7b1516f468603c3c8b9fd4e630e2e7ee25a6b43"
+    },
+    {
+      "path": "config/curios-client.toml",
+      "hash": "3034250c05362494c9f366e5cca449dcea88885d"
+    },
+    {
+      "path": "config/curios-common.toml",
+      "hash": "71b3af0db517d1651174a40732633899cbabc927"
+    },
+    {
+      "path": "config/embeddium-fingerprint.json",
+      "hash": "ff5fa9b7fe9348c52f3977eb3b6b4075449c35bb"
+    },
+    {
+      "path": "config/embeddium-mixins.properties",
+      "hash": "a729ee50d18cf2204ff9fc33bc21641d55185c88"
+    },
+    {
+      "path": "config/embeddium-options.json",
+      "hash": "7041dba5358369e69e6da7b95d45fcff3ee1e6ad"
+    },
+    {
+      "path": "config/entityculling.json",
+      "hash": "e63465d1e006faccb5e5f41474705486ad7b4c5c"
+    },
+    {
+      "path": "config/entity_model_features.json",
+      "hash": "ea34b823d12360af472d45508bea0c432522df75"
+    },
+    {
+      "path": "config/entity_texture_features.json",
+      "hash": "907d2d2c52d47b4f41ee991ba9692ad1bb667da0"
+    },
+    {
+      "path": "config/etf_warnings.json",
+      "hash": "1573fc320a363b30a1a5e4cae1d4596ec177085d"
+    },
+    {
+      "path": "config/fabric/indigo-renderer.properties",
+      "hash": "dbede11108fadceaa3bf4a7c70cf1be102606f7b"
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "hash": "7109adf50788f4bf5797dd3809ad0dc923c8f023"
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "hash": "66e1beb4f05953c76367f6a072be77ba98604e2c"
+    },
+    {
+      "path": "config/ferritecore-mixin.toml",
+      "hash": "bada32b53873ce4121ffefb82ca804c94aef2e0b"
+    },
+    {
+      "path": "config/flywheel-client.toml",
+      "hash": "639d5e69ea5cb1da413f82aec2484e390cb5c57c"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "480c691ae4a0b08d28a1a59b05544e8271038260"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "4f57b367c504c67ffe2c60c73b190b6d223c0ced"
+    },
+    {
+      "path": "config/immediatelyfast.json",
+      "hash": "adcb21b0ad5f7f1c124517ff64fc701a737e4ea1"
+    },
+    {
+      "path": "config/immersive_aircraft.json",
+      "hash": "f360dae03bbbc7442f57957d69cfd07f18826799"
+    },
+    {
+      "path": "config/immersive_melodies.json",
+      "hash": "08acb8a147e65ecbebd87fbc6f47d4ae8391f27d"
+    },
+    {
+      "path": "config/InventoryHUD/curios.json",
+      "hash": "1138a59c7f3949c85b7601fe8eb87681922e2561"
+    },
+    {
+      "path": "config/inventoryhud-client.toml",
+      "hash": "aae7adab6d2c42c59474a646723942ff37210825"
+    },
+    {
+      "path": "config/jade/hide-blocks.json",
+      "hash": "8b3297cc5db5ed84dd48d2905fb21ee3063e0e25"
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "hash": "548656ff89ad489730a4b5fdf071a6e98fcd5033"
+    },
+    {
+      "path": "config/jade/jade.json",
+      "hash": "a11bc5576b74e99593870f4c3b6627d8afcf16f9"
+    },
+    {
+      "path": "config/jade/plugins.json",
+      "hash": "9573f9408a900f5264b0419269f47e67ec22900e"
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "hash": "6b2aece11e61f3fb354887a5b1385a104e8b19bb"
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "84bf6ea62160e0c56d6bc71035b967cb716dbc8b"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "d866b00187b57c783d02b1ae313aa03ddf326cfa"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "0f021f42f3b972d0e6a3af28cda01e290611329e"
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "hash": "a9467c371d970f3bb88284e5878460e052589fc1"
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "hash": "f9bc860103810eed50e7e116dd960c2cb961f55e"
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "hash": "463229eb371eb1ddedf018aca6199c85267b41f2"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "0fa1a1b356f352aed7cac52b9d1109684660b9ca"
+    },
+    {
+      "path": "config/jei/world/server/Minecraft____bda57454/bookmarks.ini",
+      "hash": "061c7f57cedbb7b951dfb2823812ac0599ced52a"
+    },
+    {
+      "path": "config/maidaddition-common.toml",
+      "hash": "6a2875f673cb50a404c3143ecc6795c0cfee4e92"
+    },
+    {
+      "path": "config/modernfix-common.toml",
+      "hash": "046452d3af87f5c1fd5de5650e3d1b73c930fd92"
+    },
+    {
+      "path": "config/modernfix-mixins.properties",
+      "hash": "c70c2ef95b4e6e458188ee9bd6de68d1c47e33c2"
+    },
+    {
+      "path": "config/MouseTweaks.cfg",
+      "hash": "651b3e4db2d430dc1da3566b2984b264061a6794"
+    },
+    {
+      "path": "config/muhc-common.toml",
+      "hash": "802db90490a45d97b70f66aca1595c9ff595c84a"
+    },
+    {
+      "path": "config/oculus.properties",
+      "hash": "d5053900f99d2f2059f801411213b3465bf93e84"
+    },
+    {
+      "path": "config/patchouli-client.toml",
+      "hash": "e4987ed22204ca092b2d62a5fa1a065fe88fd9b2"
+    },
+    {
+      "path": "config/ponder-client.toml",
+      "hash": "0b19ea00344a54de06114aa1a0f1d4bec95782d1"
+    },
+    {
+      "path": "config/presencefootsteps/updater.json",
+      "hash": "75c10c3afddf1b1665036da06cd9c74d2ae84007"
+    },
+    {
+      "path": "config/presencefootsteps/userconfig.json",
+      "hash": "bebcca57e51dae13396fc62d0620638ae3eb1ffa"
+    },
+    {
+      "path": "config/railways-client.toml",
+      "hash": "e4d7d23e79597e4b5533662764b6b57516e3e3a7"
+    },
+    {
+      "path": "config/railways-common.toml",
+      "hash": "84c59bd1047708357987030f4b89caf0bb5dc030"
+    },
+    {
+      "path": "config/resourceful-config-web.json",
+      "hash": "30af6f47b04b9c22ca830ca4b3e51eb3dd4b0b77"
+    },
+    {
+      "path": "config/SittingPlusConfig.json",
+      "hash": "ad0fe208cbb0ebff292adcb31f96b7562f19b3c5"
+    },
+    {
+      "path": "config/skinlayers.json",
+      "hash": "c953879db67f2f3cbd33d0e55db1782e367614be"
+    },
+    {
+      "path": "config/slashblade-common.toml",
+      "hash": "2ddf0f9b75f192a25cbe586366859b5daa7b966b"
+    },
+    {
+      "path": "config/sodium-extra-options.json",
+      "hash": "a23548dee63f9984edd76f73700370cf193957fb"
+    },
+    {
+      "path": "config/sodium-extra.properties",
+      "hash": "e90b2514226a0624cf42112b42477f9872598b89"
+    },
+    {
+      "path": "config/splash.properties",
+      "hash": "b8bc792b4ef5b77b8a11e9b7f74737f1d58f5cf6"
+    },
+    {
+      "path": "config/tacz-client.toml",
+      "hash": "defd14c3f963a54b549d450bc05f5e76e70b8ad8"
+    },
+    {
+      "path": "config/tacz-common.toml",
+      "hash": "3b38286be20f8ca134c98a7bdf919c97bd0ff095"
+    },
+    {
+      "path": "config/touhou_little_maid/info.json",
+      "hash": "f1b41066aa49adfc4fe53c598c39a78dcb487155"
+    },
+    {
+      "path": "config/touhou_little_maid/sites/llm.json",
+      "hash": "51362b205f35ee82cb45fa554da9becae23f1b56"
+    },
+    {
+      "path": "config/touhou_little_maid/sites/stt.json",
+      "hash": "ac585c797d4999c7e59538ce7c8dd2e143032d1d"
+    },
+    {
+      "path": "config/touhou_little_maid/sites/tts.json",
+      "hash": "b0739d5176dde8508350223caeeb715f3ae7a360"
+    },
+    {
+      "path": "config/touhou_little_maid-common.toml",
+      "hash": "ddcb766eb3a9037af4bfe3c448be16f8ce93c0e0"
+    },
+    {
+      "path": "config/trueuuid-common.toml",
+      "hash": "dad1e8b49196fba936ff60b3d6a98924f56385c0"
+    },
+    {
+      "path": "config/twilightforest-client.toml",
+      "hash": "43579b88a96a84233b272c4b12fef6bb12a40553"
+    },
+    {
+      "path": "config/twilightforest-common.toml",
+      "hash": "2174480bb29235c7cd09df264266baf2386afca5"
+    },
+    {
+      "path": "config/utilityworlds-client.toml",
+      "hash": "96903b68cd5a302a7d6eb949e9b76f5cc4a61c96"
+    },
+    {
+      "path": "config/utilityworlds-common.toml",
+      "hash": "99b73036aaac46789127f62941bd3c6eb9bc566e"
+    },
+    {
+      "path": "config/voicechat/translations.properties",
+      "hash": "ccd3de3bb39c3307cc67e2cc2e4c9f76cd097935"
+    },
+    {
+      "path": "config/voicechat/username-cache.json",
+      "hash": "9469ed30c7857f9ad66e6216540d941bb1f34af5"
+    },
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "hash": "39a479ebb574f2e5c45942ddadeaece692a8c90b"
+    },
+    {
+      "path": "config/voicechat/voicechat-server.properties",
+      "hash": "a94f519895459da046bc278cccd413b31113b63b"
+    },
+    {
+      "path": "config/voicechat/voicechat-volumes.properties",
+      "hash": "4eaca99c316dc0e047aa47897d73689054c1474d"
+    },
+    {
+      "path": "config/voicechat-client.toml",
+      "hash": "7456618fae7d6cd80d7552761801a1363d2a2c72"
+    },
+    {
+      "path": "config/WildfireGender/client.toml",
+      "hash": "02e060402d2153dd4579349f5c2c72587d638310"
+    },
+    {
+      "path": "config/WildfireGender/dbd09b29-bbd7-4012-8c02-8ff8f530bba7.json",
+      "hash": "fe692503bcae17c2de70d5233fbb06aed4abeb36"
+    },
+    {
+      "path": "config/xaerominimap-common.txt",
+      "hash": "9dfa008f15d138e34b337e8e67122ea0364b67c0"
+    },
+    {
+      "path": "config/xaerominimap.txt",
+      "hash": "2dc5f1fbabc14fc3390e52072dd50d68aa23408c"
+    },
+    {
+      "path": "config/xaerominimap_entities.json",
+      "hash": "acf65351d79fa0764141fcd9d895c0006892fd5c"
+    },
+    {
+      "path": "config/xaeropatreon.txt",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    },
+    {
+      "path": "config/xaeroworldmap-common.txt",
+      "hash": "2654cb878cde3f8a7beaa75750a6ddd094cf8b97"
+    },
+    {
+      "path": "config/xaeroworldmap.txt",
+      "hash": "f9f3473c03a6dd44911db71f46a9bc8598b01e0c"
+    },
+    {
+      "path": "config/yes_steve_model/blacklist.txt",
+      "hash": "a55c9e139965cbb1bbb8565eef7ee40788a520a5"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/animations/arm.animation.json",
+      "hash": "3c95d1521ba3d731361d28a87b69eeb2ed520425"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/animations/arrow.animation.json",
+      "hash": "ada14e37e39190609287f799a4ec1e48094f32c0"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/animations/boat.animation.json",
+      "hash": "68a5e8f695be44f4132e5461d929be82146e4b8b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/animations/carryon.animation.json",
+      "hash": "c82068456e1d45ae2849f91ec4860f0bd1cc839a"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/animations/extra.animation.json",
+      "hash": "0ee6e557d82cfaef7b5c5ed83ee6b5fd6f6673dc"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/animations/fp.arm.animation.json",
+      "hash": "401789b8bf5966f4824eb5afd1303bf5ad0e366a"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/animations/main.animation.json",
+      "hash": "41c662cdebe2a71da3e48278df8bc1854d397d84"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/animations/parcool.animation.json",
+      "hash": "29f2f447045b4598947ccbf8546ed7a4e932271d"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/animations/slashblade.animation.json",
+      "hash": "1b0ccda4111e2ec293423c472380b9f376acdb8e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/animations/swem.animation.json",
+      "hash": "87b1de7389e15620a14b3b3b625d018c7486f30f"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/animations/tac.animation.json",
+      "hash": "8e1df40db89d2048b00ddd56161324ae217bc3b3"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/animations/tlm.animation.json",
+      "hash": "22a4577de5638e236efab3a95a71818b1301551a"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/avatar/dm.png",
+      "hash": "b4251e583910c58c3f7f358216411ba59870909e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/avatar/gsl.png",
+      "hash": "ecfc522452954cf0d1bc92bfb525f14b68f25351"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/avatar/hl.png",
+      "hash": "95e5dba3010dc87ccf64fe4ecf2834e05696504b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/avatar/lmg.png",
+      "hash": "2ffa02e7a80d7958827d9d97d1bba84720820279"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/avatar/tzz.png",
+      "hash": "9e7f41c96f54cdf80c6bfd1e5137f45ec2ae3429"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/lang/en_us.json",
+      "hash": "6a8f212a2f5f3edb4eee6af02798014bb8ee4caa"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/lang/zh_cn.json",
+      "hash": "181b2afa7abd7d19dda0d8c5dd5e88cd5e16e1d9"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/models/arm.json",
+      "hash": "a2e6fc717c91f4cade6730f41c34c666a669abf0"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/models/arrow.json",
+      "hash": "c232fb5e897092340f9a128b0b96fe9caab701d0"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/models/boat.json",
+      "hash": "5319066a239eedc7d7a3d202bf24a86d3af39c33"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/models/chest_boat.json",
+      "hash": "996b7c5bfd46c0474d5da9e2e8115f01841bd169"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/models/firework_rocket.json",
+      "hash": "22c7df651ffb57216745789b418ce10e5a3df9a4"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/models/fishing_bobber.json",
+      "hash": "f735c630a1711c2247cd23b68efd1fc5aba63f6e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/models/main.json",
+      "hash": "01c39ee31b3e1984b34ce472ee4dae64776068b5"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/models/minecart.json",
+      "hash": "b4f4a35726fdf2d43ee4818d7773acadccbffd01"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/models/trident.json",
+      "hash": "7ba80af2cb927a2b241d1b9df89a26a38a7cd8e7"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/textures/arrow.png",
+      "hash": "09aa4822b5a5e7b6221ab31e49fde2d34d701744"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/textures/blue.png",
+      "hash": "1f2b32be519a4df075038a59993e612baf6d507b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/textures/boat.png",
+      "hash": "a9b2d983c8c69dd4c0762d45f16037b314e16b33"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/textures/default.png",
+      "hash": "22adf0d6d0ea4e40f07b9b7f8d82d60555875080"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/textures/firework_rocket.png",
+      "hash": "e92be1c95ecac9a8b1ac36f60bd005c730d8d934"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/textures/fishing_bobber.png",
+      "hash": "09713df2733a4306af96103ed62630d5fbc352fa"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/textures/gui/background.png",
+      "hash": "47e30860db3f7922c23a1682fa145bd7f50f144f"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/textures/gui/foreground.png",
+      "hash": "586dbd98ff949d41df7cf236fd7ab6f91668a7d8"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/textures/minecart.png",
+      "hash": "dd3a9cd1cac505d113b878ec6c6e6945807f58cf"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/textures/trident.png",
+      "hash": "3d71cf460ba28272a85d00eb6a7e7b2e15e136c9"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/default/ysm.json",
+      "hash": "0019d12abfd2add29b30161ab2a9575801391343"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/1_alex/animations/main.animation.json",
+      "hash": "bf4e4ba53f3599b07b83a41398511c5120d81a1c"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/1_alex/animations/tac.animation.json",
+      "hash": "1efc6f0e1b1257a94960911ceb0520758cfb0aff"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/1_alex/avatar/dm.png",
+      "hash": "b4251e583910c58c3f7f358216411ba59870909e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/1_alex/avatar/gsl.png",
+      "hash": "ecfc522452954cf0d1bc92bfb525f14b68f25351"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/1_alex/avatar/tzz.png",
+      "hash": "9e7f41c96f54cdf80c6bfd1e5137f45ec2ae3429"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/1_alex/lang/en_us.json",
+      "hash": "f8926cf98e69281b524a3c4183daa21187ec02b3"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/1_alex/lang/zh_cn.json",
+      "hash": "2c724437f620e2a0f84ef099ac6735caa87f4370"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/1_alex/models/arm.json",
+      "hash": "70dc92f3ac955abef95ef21701e3d48cdc3e566b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/1_alex/models/main.json",
+      "hash": "4f900481acef4fe45cf27574bcc6fc5fc9c004e9"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/1_alex/textures/gsl.png",
+      "hash": "5073019b061691e37be0dcf1dd0317ed54c09387"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/1_alex/ysm.json",
+      "hash": "79b1ccded9de5687beb8fb1dced7b6da9480c62c"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/2_steve/animations/main.animation.json",
+      "hash": "bac6d19edb129a347823ae4a576a0f309696c874"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/2_steve/animations/tac.animation.json",
+      "hash": "8cab736acf0631130edd2d46f4fe4a57d9b017fd"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/2_steve/avatar/dm.png",
+      "hash": "b4251e583910c58c3f7f358216411ba59870909e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/2_steve/avatar/gsl.png",
+      "hash": "ecfc522452954cf0d1bc92bfb525f14b68f25351"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/2_steve/avatar/tzz.png",
+      "hash": "9e7f41c96f54cdf80c6bfd1e5137f45ec2ae3429"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/2_steve/lang/en_us.json",
+      "hash": "9aa4a6bc6147a738684ae69d7d9bf78985ca3916"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/2_steve/lang/zh_cn.json",
+      "hash": "5791e4af8773ef547afdbaf5b485bb8828121f15"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/2_steve/models/arm.json",
+      "hash": "b76af9de99b2329b4c2f47159cc27798efdbdebb"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/2_steve/models/main.json",
+      "hash": "93377e0e5e147ac2ffecec61c56f0812940d7ad7"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/2_steve/textures/tartaric_acid.png",
+      "hash": "77369e8d3e4729fce2679226df5737f72c41dd8e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/2_steve/ysm.json",
+      "hash": "527fd9bb7c492d4f5ac46efa5d06504c51166f5c"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/3_default_boy/animations/main.animation.json",
+      "hash": "103509e237db30b7f791be881440f4a0273a1070"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/3_default_boy/animations/tac.animation.json",
+      "hash": "d8b461db759d16216473c9704d38a0d2fe44cd41"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/3_default_boy/avatar/dm.png",
+      "hash": "b4251e583910c58c3f7f358216411ba59870909e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/3_default_boy/avatar/gsl.png",
+      "hash": "ecfc522452954cf0d1bc92bfb525f14b68f25351"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/3_default_boy/lang/en_us.json",
+      "hash": "a8432ca6c6b4055b67a4df608740b153c80ea10f"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/3_default_boy/lang/zh_cn.json",
+      "hash": "e6c73e5180a33c3a3221658d82d6ec39c2c62647"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/3_default_boy/models/arm.json",
+      "hash": "12197c2bd031ccbee69a984a9895a1c80ef6a462"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/3_default_boy/models/main.json",
+      "hash": "e8568d51c03d4247a92ae7b1bc4a069cfd2b0e09"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/3_default_boy/textures/blue.png",
+      "hash": "fa9a7556a232359a402e89687be27bf858ae40fe"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/3_default_boy/textures/red.png",
+      "hash": "f72db6da120e89581b721b57c51fe49d0d252b57"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/3_default_boy/ysm.json",
+      "hash": "c93291f89186e1fa42b4cc1d150cb6a4107256a1"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/4_default_controllers/animations/arm.animation.json",
+      "hash": "34f28ca9bfb868091625805091f36b0dffaa1f52"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/4_default_controllers/animations/main.animation.json",
+      "hash": "f95f84004f28b8063512d16bd578ae423036c506"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/4_default_controllers/animations/tac.animation.json",
+      "hash": "e1f5dff0dc3e621bf7ab9b626010c6ce677a336a"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/4_default_controllers/avatar/gsl.png",
+      "hash": "47e8415eb1b8ebcf5c01ad2b6bd6c3207849c540"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/4_default_controllers/avatar/hl.png",
+      "hash": "830491426415f12071af220a4486262e5efe0f6b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/4_default_controllers/controller/main_controllers.json",
+      "hash": "27124bf0e0bbf1a27eb9337aa869a45926d604a6"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/4_default_controllers/lang/en_us.json",
+      "hash": "77fe63202569334e120933ff7d8c4b77eac1e6c8"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/4_default_controllers/lang/zh_cn.json",
+      "hash": "3edea609a7c80596f87a3e143df3a475a0db8e4d"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/4_default_controllers/models/arm.json",
+      "hash": "4742c9b17dae92650f7485eba072edb3b5959320"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/4_default_controllers/models/main.json",
+      "hash": "12d0ef0a108ca78badafb017d17303b8bf384f0a"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/4_default_controllers/textures/texture.png",
+      "hash": "e65e864c5ca093410abfcff06ad49b37dcf77a77"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/4_default_controllers/ysm.json",
+      "hash": "26dc0d48eaf12bdea2208c20d06456d3b856c137"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/ysm-pack.json",
+      "hash": "fcdc0d27a0ac42f14f9075435b04b84cea25f081"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/misc/ysm-pack.png",
+      "hash": "2507b82c0102a5634570363d81fb725a4158294f"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/notice.txt",
+      "hash": "d6ade2a24c359aa02ac721d1c6c9bd681d58c2b7"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/animations/arrow.animation.json",
+      "hash": "bd6d3f6a6e95369da2d4e8a65e129f2dafc7da3e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/animations/carryon.animation.json",
+      "hash": "f47b075d50987955dbe750d2c5ec206b0a5eead5"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/animations/extra.animation.json",
+      "hash": "6e629ed2457b4b431157a2abb699fb75475e9436"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/animations/fp.arm.animation.json",
+      "hash": "f2405affeda773a29b8085bc09e1d3d1a7d880fa"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/animations/main.animation.json",
+      "hash": "cb26c480835b24f21baf0efc67bb83168be0d4af"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/animations/tac.animation.json",
+      "hash": "b150c153fee9d57488a36f1f93f5672a7785d265"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/animations/tlm.animation.json",
+      "hash": "e6592c69e15d20f0177a99f06ca2783600bc4eb8"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/animations/vehicle/horse.animation.json",
+      "hash": "c0dbb43e11663caaeaddb6a7530a75055d85d235"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/avatar/bfxm.jpg",
+      "hash": "36070cfc4b6cd1549a6d529c09290507a32b8806"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/avatar/gsl.png",
+      "hash": "f5ce10b8dda0d9eb421159d15810192771981db4"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/avatar/hl.png",
+      "hash": "95e5dba3010dc87ccf64fe4ecf2834e05696504b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/avatar/hys.png",
+      "hash": "fb7051d7c38756a46dbd2aba97bbf9c884a0c0a2"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/avatar/lmg.png",
+      "hash": "2ffa02e7a80d7958827d9d97d1bba84720820279"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/avatar/maks.jpg",
+      "hash": "f3f553f976a66f42ec6dcc4aa85385fa807435f6"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/avatar/mrsy.png",
+      "hash": "b90b318323c907d744960b207c78a6550e0e1cfe"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/avatar/nico.png",
+      "hash": "8cc102f56e8916018ab68b48fb4538a77ddacf97"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/avatar/wmdj.jpg",
+      "hash": "c3c33e006924290de9514d54ac9f29defa69d146"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/avatar/wool.png",
+      "hash": "c91ececb7f064f2cd2c9f47a5a2ddb12abd295ba"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/controller/wine_fox.animation_controllers.json",
+      "hash": "3a64517d5e287490de41c3f811f786f246d05efa"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/lang/en_us.json",
+      "hash": "29a66810e97071c5adf310a10c26e9f80fe9065e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/lang/zh_cn.json",
+      "hash": "211a07db25b7edf17f429a25efcdfcf8a4524b22"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/models/arm.json",
+      "hash": "118050a994b225766364a2de6be07b7839f6cc47"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/models/arrow.json",
+      "hash": "fedd90cb691fddb2b3b42840f30d279d63c3fda4"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/models/boat.json",
+      "hash": "7b90401ba6c0291c43abd5c7e9a057d51e37305b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/models/horse.json",
+      "hash": "988b1fde4a189c821e2a180137ee40a632c12402"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/models/main.json",
+      "hash": "9369e3ef4150f0b91b2db72ac28341274623bbab"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/models/minecart.json",
+      "hash": "1f1f91839da191d110967ae5e75c817a8b627af8"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/models/trident.json",
+      "hash": "00ce28960e00125d5bea88d3886835dfd3f42284"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/sounds/car_idle.ogg",
+      "hash": "26fac8f6dc6c993e642f3649fbf578d419da0a72"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/sounds/car_run.ogg",
+      "hash": "d77915fde95388022a2d9d2257972ed6442b170c"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/sounds/get_down.ogg",
+      "hash": "fe4d17ff8889b488d63938ce78e0bd2e15e039ff"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/sounds/otoko_wa_tsurai_yo.ogg",
+      "hash": "87050fede54eca01ba5e51e1740441f286c54a02"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/sounds/zufolo_impazzito.ogg",
+      "hash": "0684c6ebaa8da26bdccdec671116382fce243a09"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/textures/arrow.png",
+      "hash": "c317223933dfa17af93fb884cbda27f74ae2b49e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/textures/boat.png",
+      "hash": "a1731d4eaf2c3ef3948128c93aef7bf34a3b3b27"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/textures/horse.png",
+      "hash": "9b9fa43b5aafe9c2fde1bf6ed447042ab14a3c93"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/textures/minecart.png",
+      "hash": "fdf42b2f83ae530ed6aa33e33b60d7c66a3e0bc0"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/textures/skin.png",
+      "hash": "c89cbd7209bd24e78df721151044d4316d992986"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/textures/skin_white.png",
+      "hash": "138931ce8064dba8ad4296aefdd614cb9b098a79"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/textures/trident.png",
+      "hash": "462361c81a28cccc36ea2f1c8bd733270fadb629"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/01_taisho_maid/ysm.json",
+      "hash": "2b66326d6e0aa33e40b14ddcbb3f151335552918"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/02_new_year/animations/arrow.animation.json",
+      "hash": "f0738c5b633ce2570a6491334573466f7d4b7e8e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/02_new_year/animations/carryon.animation.json",
+      "hash": "f47b075d50987955dbe750d2c5ec206b0a5eead5"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/02_new_year/animations/extra.animation.json",
+      "hash": "705199044234ba460119542465926bc1dfce0f50"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/02_new_year/animations/main.animation.json",
+      "hash": "3d7757a575c64890d3d89556f255b175d4291622"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/02_new_year/animations/tac.animation.json",
+      "hash": "d071c5e45ad1306cc82f1a1e4af74fb944b0dbd0"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/02_new_year/avatar/hl.png",
+      "hash": "95e5dba3010dc87ccf64fe4ecf2834e05696504b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/02_new_year/avatar/zb.avif",
+      "hash": "9f609012b0af56313b07c3e69c8db85575967904"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/02_new_year/lang/en_us.json",
+      "hash": "d2b72894f4118f0a8d059d0ca328d704199a68e7"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/02_new_year/lang/zh_cn.json",
+      "hash": "778182f6d1952c5e69f8aff950c2c4332160e948"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/02_new_year/models/arm.json",
+      "hash": "b4acbfdb12ba1587955ada19377749a2f9da5092"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/02_new_year/models/arrow.json",
+      "hash": "fedd90cb691fddb2b3b42840f30d279d63c3fda4"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/02_new_year/models/main.json",
+      "hash": "8bcfee94d6155cecea3d4431c44162e7e90d87bd"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/02_new_year/textures/arrow.png",
+      "hash": "c317223933dfa17af93fb884cbda27f74ae2b49e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/02_new_year/textures/skin.png",
+      "hash": "dd04843427071a61b31283d3c09f549fc9c195aa"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/02_new_year/ysm.json",
+      "hash": "9474ab92490b6598cd986c11c585846966ac9e06"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/animations/arm.animation.json",
+      "hash": "484be728660abd196c63a952656a6c8ef12b25ac"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/animations/arrow.animation.json",
+      "hash": "f0738c5b633ce2570a6491334573466f7d4b7e8e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/animations/carryon.animation.json",
+      "hash": "f47b075d50987955dbe750d2c5ec206b0a5eead5"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/animations/extra.animation.json",
+      "hash": "cc549748466a8e4687260f39bd8042be067733a4"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/animations/main.animation.json",
+      "hash": "33725a20a5b8d8220c935712fe68104a6a62e74d"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/animations/tac.animation.json",
+      "hash": "b150c153fee9d57488a36f1f93f5672a7785d265"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/avatars/af.avif",
+      "hash": "c21cbe3539eecbf4b245fdf3fec4fb16e6b0331a"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/avatars/gsl.png",
+      "hash": "f5ce10b8dda0d9eb421159d15810192771981db4"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/avatars/hl.png",
+      "hash": "830491426415f12071af220a4486262e5efe0f6b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/avatars/hys.png",
+      "hash": "0338e112e9df5b3f2bc66bacaf6b8c78e3bb5334"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/controller/controller.json",
+      "hash": "c396dd3e50558fd5f0f31409d5aa88de46b86791"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/lang/en_us.json",
+      "hash": "78553149f2a876db38e23496ff432431f1ad77e0"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/lang/zh_cn.json",
+      "hash": "fd4d8767c6a96686919bbff09e9740db1f602ee4"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/models/arm.json",
+      "hash": "13b02605dab3ceb1c36c7c5bfc56308c8a7d48e6"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/models/arrow.json",
+      "hash": "fedd90cb691fddb2b3b42840f30d279d63c3fda4"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/models/main.json",
+      "hash": "31eb84f40fe2b2614fcd4492bbec67476bdf3f22"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/textures/arrow.png",
+      "hash": "c317223933dfa17af93fb884cbda27f74ae2b49e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/textures/skin.png",
+      "hash": "ba0b021839de727bb582496a85370981635c4884"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/03_astronaut/ysm.json",
+      "hash": "6dfbdaf5c1cb2434a5e82d96d0f1cf6a25467262"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/04_kongfu/animations/carryon.animation.json",
+      "hash": "f47b075d50987955dbe750d2c5ec206b0a5eead5"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/04_kongfu/animations/main.animation.json",
+      "hash": "f9642b5130eef08d188c80ff2bb2ce89b42ed591"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/04_kongfu/animations/tlm.animation.json",
+      "hash": "e6592c69e15d20f0177a99f06ca2783600bc4eb8"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/04_kongfu/avatar/gsl.png",
+      "hash": "f5ce10b8dda0d9eb421159d15810192771981db4"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/04_kongfu/lang/en_us.json",
+      "hash": "7293d75ccc050c49daa072d5924d4f9671f6b7f4"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/04_kongfu/lang/zh_cn.json",
+      "hash": "aa9dd8d8b82ba779dfaa8d6a684acaefe8a59bb2"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/04_kongfu/models/arm.json",
+      "hash": "32814045e74d483d41d01f53ebda15a6248f8c95"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/04_kongfu/models/main.json",
+      "hash": "26d2f3db18e22f228855d833188e9f6381ca17b5"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/04_kongfu/textures/black.png",
+      "hash": "d85191c947b163a29567edde4c814fc104807af3"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/04_kongfu/textures/default.png",
+      "hash": "ec94379ea7bb39a58c67cbc91d43b797c3891839"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/04_kongfu/textures/default_red.png",
+      "hash": "30fb83eadf635ec0dba70c568937b79f6651f49d"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/04_kongfu/textures/red.png",
+      "hash": "0012f9693c4bb9b2710b14c6f9d505c4631b386e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/04_kongfu/textures/red_more.png",
+      "hash": "29e9c456dc9d0495b6122cdd1db47edfa7f000f5"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/04_kongfu/textures/yellow.png",
+      "hash": "f30ef315f29d889805ccbe21e2340d5977c68e56"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/04_kongfu/ysm.json",
+      "hash": "3de003fab59cb5449bf27daba18c93f89860d9c0"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/animations/arm.animation.json",
+      "hash": "3d8d5aaa136e2369f541b1edaf436d939cc14a17"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/animations/arrow.animation.json",
+      "hash": "f0738c5b633ce2570a6491334573466f7d4b7e8e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/animations/carryon.animation.json",
+      "hash": "f47b075d50987955dbe750d2c5ec206b0a5eead5"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/animations/extra.animation.json",
+      "hash": "41260cd88263b1e1291a6bce198692fb08b6b76d"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/animations/main.animation.json",
+      "hash": "7f781261104b2b7906a386fbf204d3a3966392c7"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/animations/tac.animation.json",
+      "hash": "b150c153fee9d57488a36f1f93f5672a7785d265"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/animations/tlm.animation.json",
+      "hash": "c3e81fcd120fe2a00d89862a68271775642e8415"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/avatar/xinghai.avif",
+      "hash": "c100d90c9f13041de10466a033637b08d348436d"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/avatar/yll.jpg",
+      "hash": "767c31d262a6e748d895e77d9e1856c5174c4eef"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/lang/en_us.json",
+      "hash": "733e3626e3dc2f46f29ac4308aa5878ada07210e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/lang/zh_cn.json",
+      "hash": "8920da855a0ae57392583bb61673c613af98e151"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/models/arm.json",
+      "hash": "ecc01a819a9217cb0245235395326e640b1d8731"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/models/arrow.json",
+      "hash": "df8eb3f36fe85069ee82a244b57409b8ba9909e1"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/models/main.json",
+      "hash": "b5a02487bd88dc80f942db85fa5ede2ebe85f26b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/textures/arrow.png",
+      "hash": "df2ca8d4926b2d80d8641e12198188553dea9e30"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/textures/skin_blood.png",
+      "hash": "84e64246d8347c7efc5abb9b078476beb2c24e48"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/textures/skin_flower.png",
+      "hash": "c7e69dd150cefc3c25c2cb09f952aaf46af4918f"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/textures/skin_fox.png",
+      "hash": "3c433de24db7dbaa8615ad42b03e493eab07860a"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/textures/skin_ice.png",
+      "hash": "72f397bf496dd222f1c39610f03448840fa2f5e3"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/textures/skin_spell.png",
+      "hash": "edaac097b9aa00475a8f072031dfdb410e0d5192"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/textures/skin_water.png",
+      "hash": "7734db3ad58a9fbfc91898af7c39e6af133bcc2d"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/05_magical/ysm.json",
+      "hash": "9c382ccbe1c47e99a4d3b534322c8bdc31e45ec0"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/06_hanfu/animations/carryon.animation.json",
+      "hash": "f47b075d50987955dbe750d2c5ec206b0a5eead5"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/06_hanfu/animations/main.animation.json",
+      "hash": "fa5fef2025289f7a9a2ab502ee8cd18488a809b0"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/06_hanfu/animations/tlm.animation.json",
+      "hash": "e6592c69e15d20f0177a99f06ca2783600bc4eb8"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/06_hanfu/avatar/zb.avif",
+      "hash": "9f609012b0af56313b07c3e69c8db85575967904"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/06_hanfu/lang/en_us.json",
+      "hash": "8f3e676f2e7efce1d747a1e6ce5daf64687335a5"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/06_hanfu/lang/zh_cn.json",
+      "hash": "53548d581e70d138588cc1f09471ce96dbe682a3"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/06_hanfu/models/arm.json",
+      "hash": "229a06e68ae160477a144bac4b1a068e4d8bc25b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/06_hanfu/models/main.json",
+      "hash": "ac8999cf2bebf0810d8afd9cee7ed50c1d21c46d"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/06_hanfu/textures/default.png",
+      "hash": "c0be9066ebddac9a4af70787e51472598207a06c"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/06_hanfu/ysm.json",
+      "hash": "523f326b51cfdee8253e4c6c8a9bc5c4874fff9c"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/animations/arrow.animation.json",
+      "hash": "f0738c5b633ce2570a6491334573466f7d4b7e8e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/animations/carryon.animation.json",
+      "hash": "f47b075d50987955dbe750d2c5ec206b0a5eead5"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/animations/extra.animation.json",
+      "hash": "fa40f2be0118b91d84606742f1c747dda50e71d8"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/animations/main.animation.json",
+      "hash": "78db994bdfe31c51a271b068373109e992c79fe5"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/animations/tac.animation.json",
+      "hash": "9071c7158055ef15ce2d4d2542cec971fe2453a1"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/animations/tlm.animation.json",
+      "hash": "d58c513e4b158153db570498e6184eb32ab3cad6"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/avatar/hl.png",
+      "hash": "95e5dba3010dc87ccf64fe4ecf2834e05696504b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/avatar/mrsy.png",
+      "hash": "b90b318323c907d744960b207c78a6550e0e1cfe"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/avatar/nico.png",
+      "hash": "8cc102f56e8916018ab68b48fb4538a77ddacf97"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/avatar/xy.png",
+      "hash": "9de9996cb73bb67ae0a534e9f764e7e521dc6aca"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/lang/en_us.json",
+      "hash": "131bff9c063ed27eedeacea2d82f9d24d325214c"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/lang/zh_cn.json",
+      "hash": "9c7df6543094a8b90267890cbb19f76c964e3623"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/models/arm.json",
+      "hash": "fd919906e9729603f49e59cd30947aeca26f1358"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/models/arrow.json",
+      "hash": "9707443da16fb0805518605d69e19dcc2f3fbd2f"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/models/main.json",
+      "hash": "ace0230b0a922e12ace160dfaeea121e2d493e07"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/sounds/minuet.ogg",
+      "hash": "aa939736bab78a2f0f34c4206152222696cac8c0"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/textures/arrow.png",
+      "hash": "1ea9415b696b44b0110df94c010d79a0e2cba98e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/textures/skin.png",
+      "hash": "97033302e7340c9ebf69e52fc9df913b42b131dd"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/07_jk/ysm.json",
+      "hash": "098705aa9b970b92973841fa74feab9a73267350"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/animations/arm.animation.json",
+      "hash": "509aaf2078c4721116ed586b35a14b5850f7c709"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/animations/arrow.animation.json",
+      "hash": "ada14e37e39190609287f799a4ec1e48094f32c0"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/animations/carryon.animation.json",
+      "hash": "c82068456e1d45ae2849f91ec4860f0bd1cc839a"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/animations/extra.animation.json",
+      "hash": "639a28fc093ea9c5b5f54d1cb3ead4a477b3865c"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/animations/main.animation.json",
+      "hash": "04866a2cb2e2be312cc1be165473f45a6017ce60"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/animations/parcool.animation.json",
+      "hash": "f947caed9e2f6fad51c37773f83a0df732ec4112"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/animations/swem.animation.json",
+      "hash": "87b1de7389e15620a14b3b3b625d018c7486f30f"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/animations/tac.animation.json",
+      "hash": "9ecd81b020c04983080d91faa33471bc8c99070a"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/avatar/gsl.png",
+      "hash": "c47d4f2fd07027f9eebb5b161481bc1b90d92fca"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/avatar/st.png",
+      "hash": "0aa7b631c70bbbd8f3ae0c4a2e1f58ba89f7dfef"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/avatar/ys.png",
+      "hash": "010e76d6b31bb925d8fd14247bd116326da477e3"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/controller/main.animation_controllers.json",
+      "hash": "d3d92556bf014a8908196872028de87013492f03"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/lang/en_us.json",
+      "hash": "0c5853901e76d52c26519f280db046a3f98f40f9"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/lang/zh_cn.json",
+      "hash": "cd4b8f43b9c357ec306712747a0150c1c3d81043"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/models/arm.json",
+      "hash": "0fc1ae5c89cb3564b2db9d0fd78c178629fe9a16"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/models/main.json",
+      "hash": "b68ac294a21407e2e0a2ecbde663c3e1762904bd"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/sounds/A Cup Of Liber-Tea.ogg",
+      "hash": "ded0e19be2f94b947e35ded9a10912b0f39e4b12"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/textures/texture.png",
+      "hash": "d71443c5f4842c2a246697c87009be5da9401d8e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/08_sta/ysm.json",
+      "hash": "188941f9b195672df52cc00830a3cf63981e9875"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/animations/extra.animation.json",
+      "hash": "1021862d3d13f856b71dcc981bb8df395cc692d3"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/animations/main.animation.json",
+      "hash": "4ac446f9b6b106d6bd2380a45209d216bd0eeb50"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/avatar/zb.avif",
+      "hash": "7779ed7dd260b8894b43d297937e38dd6df97280"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/avatar/星屑海螺.avif",
+      "hash": "3440e55014e0612cf2f550f027848fefc72f7037"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/avatar/白帆小喵.avif",
+      "hash": "0e3198a724729b8a13dea89ef430d1e7e732bb85"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/avatar/纸板.avif",
+      "hash": "bb194c498008356bf27372e681a479659be1cac4"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/avatar/雒仁.avif",
+      "hash": "f43131d4d7aeacd8f9485120f3006b0752e2540a"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/lang/en_us.json",
+      "hash": "2b404034508c3046d5ef35a037509e41d24bec04"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/lang/zh_cn.json",
+      "hash": "51066b45b0e5657b2bf44417d7688f2c78fa4a41"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/models/arm.json",
+      "hash": "e8160f3257df13411d8484173ba71eeb10b3430f"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/models/arrow.json",
+      "hash": "3870e93e7687886a92634db1c382aea2c059c561"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/models/main.json",
+      "hash": "25ebbdd9971291b8e2324d7adb92aeebee183073"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/textures/arrow.png",
+      "hash": "965114add3e8d867ae95c9b426f1b5098418ddef"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/textures/texture.png",
+      "hash": "cf0b51a713c776f5459eb04a06215f51da6f9f94"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/09_hailuo/ysm.json",
+      "hash": "fb0a420c93f6d8aa661a7cbf8e8450a9811d8c0a"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/10_zhiban/animations/extra.animation.json",
+      "hash": "829f53e369ed7d63ae99165e75aeca0eec0cbfe0"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/10_zhiban/animations/main.animation.json",
+      "hash": "8f229a4724c67b9c243441c85aea93b3af293e28"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/10_zhiban/avatar/zb.avif",
+      "hash": "7779ed7dd260b8894b43d297937e38dd6df97280"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/10_zhiban/avatar/狱际星芒.avif",
+      "hash": "3da73fbf941dd000cb56071430eedefd20c9f738"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/10_zhiban/lang/en_us.json",
+      "hash": "6ea6c0a8b0a7c4847e5b6c2502a0d12cfe1cc20f"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/10_zhiban/lang/zh_cn.json",
+      "hash": "5b1d73e76567348e29f32f801befa90c9e49532b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/10_zhiban/models/arm.json",
+      "hash": "01d316f81f106c3e24eccc1944361ddc1ef1675c"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/10_zhiban/models/arrow.json",
+      "hash": "3870e93e7687886a92634db1c382aea2c059c561"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/10_zhiban/models/main.json",
+      "hash": "354997d6c75e934ab5971882a73b829f309d04d2"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/10_zhiban/textures/arrow.png",
+      "hash": "965114add3e8d867ae95c9b426f1b5098418ddef"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/10_zhiban/textures/default.png",
+      "hash": "74a92232d21d5decd3855f5ea4f53d99ca5aa811"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/10_zhiban/ysm.json",
+      "hash": "90ce1091a9d0e1a631433cf29e92589f3dda03f4"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/11_salesperson/animations/carryon.animation.json",
+      "hash": "f47b075d50987955dbe750d2c5ec206b0a5eead5"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/11_salesperson/animations/main.animation.json",
+      "hash": "78db994bdfe31c51a271b068373109e992c79fe5"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/11_salesperson/animations/tlm.animation.json",
+      "hash": "5c568c1376208885e7afbf1aa082fd68ca9cd54b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/11_salesperson/avatar/mr_cheese.avif",
+      "hash": "41846c99e3647f01f640edf9232e54b47442d536"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/11_salesperson/lang/en_us.json",
+      "hash": "d4971e46d11987aca51507df24977c3acdf4d0e8"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/11_salesperson/lang/zh_cn.json",
+      "hash": "0f3593459dbdef2141796bde14e6d5e5a41b1776"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/11_salesperson/models/arm.json",
+      "hash": "a2063f6cd434c12aa1667a5e49814fe16dd70387"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/11_salesperson/models/main.json",
+      "hash": "e772d950f2619d06b49b1b8f578ef22943539b27"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/11_salesperson/textures/blue.png",
+      "hash": "6d7d6f4913a6783ecc87a4be30e3bfec336c7529"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/11_salesperson/textures/default.png",
+      "hash": "5a1aa12bb002def052cb68e6c592e5cf1fe37527"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/11_salesperson/textures/pbr/texture_s.png",
+      "hash": "32f016d77d2e4a7aa3a4ba65b2615bf94344faef"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/11_salesperson/ysm.json",
+      "hash": "93030453563626528fbdde41f2d9fdb5e787e384"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/animations/arrow.animation.json",
+      "hash": "f0738c5b633ce2570a6491334573466f7d4b7e8e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/animations/carryon.animation.json",
+      "hash": "717c41c939a0c9f6c786046d5d66fab5fb49d2c3"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/animations/extra.animation.json",
+      "hash": "237d381e0429b8a7c7c3a9701cbc2f1c7e91e50c"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/animations/main.animation.json",
+      "hash": "65a240a004e132ef5f270b289fffe071a59c0807"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/animations/tac.animation.json",
+      "hash": "ead367ec9f1c7e3fb0ddf203c4e54b1cc532e1ca"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/animations/tlm.animation.json",
+      "hash": "9df162a6c1753cb579ed5251760ee9835d6c0f59"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/avatar/hl.png",
+      "hash": "95e5dba3010dc87ccf64fe4ecf2834e05696504b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/avatar/ry.png",
+      "hash": "ba572274673cd6a58799dc01700af3c6509e5eac"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/avatar/wmdj.jpg",
+      "hash": "c3c33e006924290de9514d54ac9f29defa69d146"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/lang/en_us.json",
+      "hash": "ae41a379ee26f861a0a18cb2ce2d15a533f5e59e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/lang/zh_cn.json",
+      "hash": "24160747ae4a4cfbf23847d2eeda39912d3cdd16"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/models/arm.json",
+      "hash": "f1e1e9d4a68a9efdafcb3e9bfea1c75cd3f25508"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/models/arrow.json",
+      "hash": "fedd90cb691fddb2b3b42840f30d279d63c3fda4"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/models/main.json",
+      "hash": "4576eb7759647c0934e6891aa2ce70cfd16e10cd"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/textures/arrow.png",
+      "hash": "c317223933dfa17af93fb884cbda27f74ae2b49e"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/textures/skin.png",
+      "hash": "ea13505dbf8f0f3feee29479ec7baf9e864ca435"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/12_little/ysm.json",
+      "hash": "ec0b08fc634e0dee376e8264191089b05853ea47"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/animations/arm.animation.json",
+      "hash": "991ad775ee42080367b77f6a96ae1b69f1e14308"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/animations/carryon.animation.json",
+      "hash": "01f140c62e72c9ba91651b5ab740a824986b3dcb"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/animations/extra.animation.json",
+      "hash": "29b211863158d5c407bc5bca30f0a881c1010667"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/animations/main.animation.json",
+      "hash": "200da7b564ea84cdc354e1089162977233a844a2"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/animations/tac.animation.json",
+      "hash": "b150c153fee9d57488a36f1f93f5672a7785d265"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/animations/tlm.animation.json",
+      "hash": "37658f8e5dc391431af14146421f8cfa00097ec1"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/avatar/tex.png",
+      "hash": "f96d3919ab0b0cd6949f6a1bd100b58427ab2e2c"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/avatar/zljjxmm.png",
+      "hash": "c250abfc52731c55886c951f7cde670b3f1b4864"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/controller/armor.animation_controllers.json",
+      "hash": "8969c32082b03ad399e27ffaf93633a62e63eb92"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/controller/parallel.animation_controllers.json",
+      "hash": "dc50341b735d27a9289114d50c6c18a39ca2cdbd"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/lang/en_us.json",
+      "hash": "5d7d3acc79df0d0f1d2219be573a7724f42cd374"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/lang/zh_cn.json",
+      "hash": "54cae48c6f887f58296a231bf2d4059e9f7b191f"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/models/arm.json",
+      "hash": "81b38be2ca60cc683d7e8335feb52cded73a852b"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/models/main.json",
+      "hash": "8cb83499a64c7e1c49f21880e4e9e518a45b1521"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/sounds/dooble.ogg",
+      "hash": "428dd4f3e6fd41a1453ab51e370e9b48b243e500"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/sounds/fly_on.ogg",
+      "hash": "56693941be6574f4bea161b6e15944c75983e7ea"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/sounds/owo.ogg",
+      "hash": "de018375190eb2d750eaebf0167c8ead2f544092"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/sounds/sfmb.ogg",
+      "hash": "574cbeafd7446002f65dc2cee210990d490ff5bd"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/textures/skin_green.png",
+      "hash": "7ec28e754778d40244e6c9b084cd2142372d96ff"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/textures/skin_pink.png",
+      "hash": "ff0ece7c6679c5dc8c3c43e04e4e6450f8ef9c38"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/13_momo/ysm.json",
+      "hash": "6cfd1a4aa2a168dab749a9308eb974ebb632c2f4"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/ysm-pack.json",
+      "hash": "98e0cfb2852bbc69e30b34effeaab0ee24bd41df"
+    },
+    {
+      "path": "config/yes_steve_model/builtin/wine_fox/ysm-pack.png",
+      "hash": "6b226b9bb1119f0178b48af5277d9c361e6a6abb"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/07bd126355fa0cd998a913e895beb779a3bae95e",
+      "hash": "7ccd7571197a525cc5c850fb312a6a63f27b4b75"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/13d3e31de495fc2f76b3ec65cc426f72774a1b95",
+      "hash": "cf8f1759eeb8bda40bdfc0b9d8d80053ebce8e33"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/148b99b05e9165a4ad7a52f143d395f4271d4484",
+      "hash": "8cb59d4daaf240d014d93e90d35f98b4dc82da72"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/30386d6bbb64b6c33becfc122061b173032ecb49",
+      "hash": "8356bd72b79eed9f3eb482c898431400418ffe3e"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/420675bde8d4296f5c2bfa3ddd37b4826e5832d7",
+      "hash": "cdacfd6a8a24d3bea0dbbee4a3e56037efc1c646"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/5510a9ecab4ac1462472a1859a8409e45d6632da",
+      "hash": "32c431a6ee1104b32960d595e1112daecad51e6c"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/55fb7bea292f16f86b3b235c07723bfa293e6c82",
+      "hash": "a1cdc24d3ab783d22043eff0a8b3b0ebedb0260b"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/7b4cd399d98a95f7009da2c070fdb322125988ea",
+      "hash": "f0b597883e835a6339af89f192fbba4f70d38eae"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/8cd5306f7bb3a350c65764ad14f97cbcd1ce729b",
+      "hash": "5721f2d781f0a9b077098c19ce18a9da971e4ca6"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/9f2391a09872c2c3fb9425db35b631d7f9d487cd",
+      "hash": "dfacd7b720ddb03bf0ce619b8b9c34bc2ffd8a12"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/a8e48c17c377d6f29bc7e630b021cc30dac757a2",
+      "hash": "708147dd9cbe884b4c82f2da907aafe7033f6172"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/a9bb8e5041373c5314c7de0b117c64a07bc9e24b",
+      "hash": "84b66048b7255396fece897b0a3fefc63bf6b791"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/b7cf7387132d09d1f2aacf6d34c5d973e9aac12d",
+      "hash": "710613d82f646f28f1c534d8da216b0a4ca80e1a"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/db8acaf155b6c2eb18850c77727f6fc1f817ebd2",
+      "hash": "d67e7e26fff1b043a8d73e592c179dec1160c8b3"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/dc624784fab532a35b6edf585ab39264624f39d1",
+      "hash": "383654a8d27ab5b17d497454ee905717e1000258"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/ebb306cc45638d6edd094f61e842114ab4743cdf",
+      "hash": "61e108ccf8036c83f8317f950f706c31c13030d3"
+    },
+    {
+      "path": "config/yes_steve_model/cache/client/6a9daab2ae4559b9/fa3b256508c8cda7596a51b356e2e664422aec87",
+      "hash": "67f3c7811f7fe8792f4422fb558d64beed8e9a43"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/0ccaa7311c51d28f010dc1f9427426a25d53a9da",
+      "hash": "2a89afd0a2c1301c711835b8a47264b423537368"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/0d445efe1c585b68ecd30be766e31ed7e56d2012",
+      "hash": "5ee7374ff3245dc96d91362b27999078dabbf8e5"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/19f579ddf6565f4e0a83e9c6e0fae61b7641a258",
+      "hash": "2263ad4f12a64896cf37215f43dec98a0b40908e"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/286edc582298581135feae83a13cc7b55d21b732",
+      "hash": "1507925994bf5b341e553cee70461a303f456d4e"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/2f9d1c8b9800a853ed63adf0120299cd50b4cc19",
+      "hash": "f8c61c5efdf02ca7b39171286f5b596ae12423cd"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/4a65f6ae65d748412dbf921f173e1cff77fcbfee",
+      "hash": "bc9c00a0ee7fb5809f79abe11f701b9d97b19341"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/603d028aa8ac6637efd77a15f5bd0b34f3485e3d",
+      "hash": "44b784955a41d621a5f885ace8d454b43a97dc5c"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/7b33534f288a159de4fae40748cee1d0ec22be89",
+      "hash": "924367f3cb0c2d2a46f2348bc82c4aafe0187754"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/a83ab4303bf3587ca632d590fd8b30fdee329649",
+      "hash": "29a363d5eebab393a047b183ae3c5ff754d9ed6c"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/a928518eaa77ae25473c01bc25094b4eaa74f6d5",
+      "hash": "65a1875b32a4278933cfde4a1efa7e84933d6b51"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/c22e2b2dfc3fe8d9bb4eb9c39901ca7e4f2c1c9f",
+      "hash": "a3dc5aee01fc9b01240720d0249b632f46b5c734"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/c4812d565ffc0b040d53af73861d018a521f6582",
+      "hash": "02885cc12ae6cd78ded75dba367e00c37d3e3aa1"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/dd4df593e8c0bec99b54c91b6ced0674926a82b2",
+      "hash": "47bfec37101e85288bf0058e23062078af91314c"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/e73f98e4c66ce8e4cd9cc9ef48116d399d267c1e",
+      "hash": "beefbc5f6fc000fddae6239941a7cc368a16a0cf"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/f146c3c5e8d936a2d5b9e521a495b55c160913f8",
+      "hash": "5a7958e47f4ac41be1d6ce7c3ba7e0f1c7fa3ca0"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/f160124df2b374fe3a58e79ba972bfe869f0e0f7",
+      "hash": "5aa086d3961d1de45bbdc768525cdbe32cdc484f"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server/f9c0e74c3ac8e9c40def4fe79a65e12b0ef8f9c3",
+      "hash": "ca20e0306b3a6fc719b251028c2213ef63241f73"
+    },
+    {
+      "path": "config/yes_steve_model/cache/server_index",
+      "hash": "485be5d0d72041af2132aa66940e47b71c960981"
+    },
+    {
+      "path": "config/yes_steve_model-client.toml",
+      "hash": "aa9fc4475fe734e935528f150d41c25deda42a33"
+    },
     {
       "path": "mods/ad_astra-forge-1.20.1-1.15.20.jar",
       "hash": "537ac3e358a97efd7b03648a9bfd7b11f1ae7ff7"
@@ -272,14 +2508,6 @@
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip",
       "hash": "3cb5caa32577ba2d3a6b15b70c99c612404b04cd"
-    },
-    {
-      "path": "resourcepacks/乌托邦七彩花透明GUI.zip",
-      "hash": "7b6d3b0c72ae56f0ab01677eecde67dc9065cafe"
-    },
-    {
-      "path": "resourcepacks/乌托邦自定义音乐版本3.5.zip",
-      "hash": "0a0548b6879484c214bdc37c928ca5ccdd18e1e3"
     },
     {
       "path": "resourcepacks/修复动作弯曲.zip",
