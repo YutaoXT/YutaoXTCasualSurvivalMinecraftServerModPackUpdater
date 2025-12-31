@@ -1,6 +1,0 @@
-
-#Client settings
-[client]
-	# Set to true for an End dimension background in Void World.
-	darkVoidWorld = false
-
