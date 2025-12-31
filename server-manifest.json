@@ -1,0 +1,839 @@
+{
+  "name": "第4次大更新版本\u0026可自动更新\u0026内含启动器",
+  "author": "郁陶晓天",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "https://gitee.com/yu-taoxiaotian/hmcl-modpack-update/raw/master",
+  "files": [
+    {
+      "path": "mods/ad_astra-forge-1.20.1-1.15.20.jar",
+      "hash": "537ac3e358a97efd7b03648a9bfd7b11f1ae7ff7"
+    },
+    {
+      "path": "mods/aether-1.20.1-1.5.2-neoforge.jar",
+      "hash": "e2fdd161f35ca1b6db774906e88e266d7f12eab6"
+    },
+    {
+      "path": "mods/alexsmobs-1.22.9.jar",
+      "hash": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f"
+    },
+    {
+      "path": "mods/botarium-forge-1.20.1-2.3.4.jar",
+      "hash": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b"
+    },
+    {
+      "path": "mods/c2meF-0.2.0+alpha.12-all.jar",
+      "hash": "ad44f615a4b15afd1d6a4d907ccab1c3855451a1"
+    },
+    {
+      "path": "mods/ChatImage-1.4.7+1.20.1+forge.jar",
+      "hash": "2e39399c9b2220b615e2f67997931b01b79050ea"
+    },
+    {
+      "path": "mods/chat_heads-0.13.18-forge-1.20.jar",
+      "hash": "f775daaaa9ec1b6ec4ad0c217382f9d9a3565e18"
+    },
+    {
+      "path": "mods/citadel-2.6.2-1.20.1.jar",
+      "hash": "06866f4005d3f6ba63ac01f715b352842d809bbd"
+    },
+    {
+      "path": "mods/citresewn-1.20.1-5.jar.disabled",
+      "hash": "496393d1fc170bafccd6016cd5d93ab52b4a101c"
+    },
+    {
+      "path": "mods/cloth-config-11.1.136-forge.jar",
+      "hash": "c65d07748acc57ceb45d53b3964368b84f34d54f"
+    },
+    {
+      "path": "mods/create-1.20.1-6.0.8.jar",
+      "hash": "b13d912b9247a38d66d11598c121442585a1c1e9"
+    },
+    {
+      "path": "mods/create-new-age-1.1.7d+forge-mc1.20.1.jar",
+      "hash": "544ffdda326fcd718d0df9de64f5e0e5527d3e2e"
+    },
+    {
+      "path": "mods/createaddition-1.20.1-1.3.3.jar",
+      "hash": "c7d464c451fdc2979bc29a67d7eec2a30858af12"
+    },
+    {
+      "path": "mods/curios-forge-5.14.1+1.20.1.jar",
+      "hash": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480"
+    },
+    {
+      "path": "mods/CustomSkinLoader_ForgeV2-14.27.jar",
+      "hash": "56d0f4ec643c551d071c71806d9eb83fdf5b5035"
+    },
+    {
+      "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+      "hash": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+    },
+    {
+      "path": "mods/entityculling-forge-1.9.3-mc1.20.1.jar",
+      "hash": "8faea4818faab6b870ee370b52434b016542b519"
+    },
+    {
+      "path": "mods/entity_model_features_1.20.1-forge-3.0.7.jar.disabled",
+      "hash": "4c3367cc6923e778ea1119a1240d1d160055f3e6"
+    },
+    {
+      "path": "mods/entity_texture_features_1.20.1-forge-7.0.6.jar.disabled",
+      "hash": "756a6ed1a8ef46ae664d8a1fdaf50c9a7b4030fa"
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.2.9.jar",
+      "hash": "ca9417c369e75d38dacdac59937223e5f6adcc18"
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "hash": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+    },
+    {
+      "path": "mods/ForgeClientResetPacket-0.3.1.jar",
+      "hash": "c357e5255080e5a69a6d9f986ad391e55946b32a"
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.2.jar",
+      "hash": "395a9f21a36dc8466d67c2af67a904e7013460d1"
+    },
+    {
+      "path": "mods/happy_ghast-3.0.0-forge-1.20.1.jar",
+      "hash": "2104c48f48815b0dd95febd114765482fc4f0e26"
+    },
+    {
+      "path": "mods/ImmediatelyFast-Forge-1.5.3+1.20.4.jar",
+      "hash": "d4695d013e9da7089e2906db3f56bc5398e478e2"
+    },
+    {
+      "path": "mods/immersive_aircraft-1.4.0+1.20.1-forge.jar",
+      "hash": "64e6c792c5208005ee6b099e8fb7d2738873737d"
+    },
+    {
+      "path": "mods/immersive_melodies-0.6.0+1.20.1-forge.jar",
+      "hash": "688f2b905c99a2d2c86f016eb09712d978f99102"
+    },
+    {
+      "path": "mods/interiors-0.5.6+forge-mc1.20.1-local.jar",
+      "hash": "5f46c829dc012138faa1191d97ef79c7569b53a1"
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.20.0.128.jar",
+      "hash": "6d6ab556c4b47b63354f30939bbc5f1025ff689e"
+    },
+    {
+      "path": "mods/MaidUseHandCrank_1.5.1-forge_47.1.33-1.20.1.jar",
+      "hash": "cad8673e650ebfb9bd45e6f89825f6e033aa2cb7"
+    },
+    {
+      "path": "mods/mcw-bridges-3.1.0-mc1.20.1forge.jar",
+      "hash": "7a94bff9e9c2408c6c36e64d5c911e5759cddc10"
+    },
+    {
+      "path": "mods/modernfix-forge-5.25.1+mc1.20.1.jar",
+      "hash": "124ea5db8c3b7dc00166806ef0fc412177882fda"
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+      "hash": "984f774e71790deaec674c7587bd24e0711871b2"
+    },
+    {
+      "path": "mods/Patchouli-1.20.1-84.1-FORGE.jar",
+      "hash": "e91d2e2f251375d647d592b670ea6f310c2554eb"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar.disabled",
+      "hash": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a"
+    },
+    {
+      "path": "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "hash": "285b7c7616971338ccbe0022c9ea0f8ad3036aaf"
+    },
+    {
+      "path": "mods/REBIRTH Paintings 5.0.0.jar",
+      "hash": "ce85e0ac1cf7bcbbfadae9799af9770861f18b08"
+    },
+    {
+      "path": "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "hash": "597d40920dcc935f963842c817dcc4901862ab14"
+    },
+    {
+      "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "hash": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
+    },
+    {
+      "path": "mods/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+      "hash": "bb422d5626bf69841e444a3e545c8e71b6928cf8"
+    },
+    {
+      "path": "mods/skinlayers3d-forge-1.8.2-mc1.20.1.jar.disabled",
+      "hash": "66fbcca03360453f07ede303d9fcf97750f167f7"
+    },
+    {
+      "path": "mods/sky_whale_ship-1.20.1.jar",
+      "hash": "199e178541d61214cde3c1b7ee4e8d1726a99767"
+    },
+    {
+      "path": "mods/SlashBladeResharped-1.20.1-1.8.62.jar",
+      "hash": "e3da600df6371aac3aca3debcf5fa0127a9ceacd"
+    },
+    {
+      "path": "mods/sonicraft-1.9.1-forge-1.20.1.jar",
+      "hash": "3d6e280653d74bf6e546fed5ba1147747e8cb368"
+    },
+    {
+      "path": "mods/Steam_Rails-1.6.14-beta+forge-mc1.20.1.jar",
+      "hash": "90ea1d917bc20a5e4cc50abaa512d2084149dc64"
+    },
+    {
+      "path": "mods/tacz-1.20.1-1.1.6-hotfix.jar",
+      "hash": "e951d81b5f452bcad47c20d5b491fd26f8de8ce2"
+    },
+    {
+      "path": "mods/tf_dnv-1.2.3.jar",
+      "hash": "0e0bd548e5ae696606e30bf1f373dacde0ccd642"
+    },
+    {
+      "path": "mods/TouchController-0.2.1-beta15+forge-1.20.1.jar.disabled",
+      "hash": "4d3caa897ec613b3f97094fa3c950dbf24e0e96f"
+    },
+    {
+      "path": "mods/touhoulittlemaid-1.20.1-release-1.3.6.jar",
+      "hash": "f99dc4d1b2fb61be8e792da0f2498b72ca3cf4fb"
+    },
+    {
+      "path": "mods/TrueHerobrine_1.0+Neo+1.20.1.jar",
+      "hash": "d2c76271ba8bb4eb45b2622385e84fefebe4e6bf"
+    },
+    {
+      "path": "mods/twilightforest-1.20.1-4.3.2508-universal.jar",
+      "hash": "fa3b506a45d3e9c465551cd533fd50c899496e9f"
+    },
+    {
+      "path": "mods/UtilityWorlds-1.20.1_1.1.8.jar",
+      "hash": "77892d9472f686f75a5ea16d85f3731a35b9de87"
+    },
+    {
+      "path": "mods/voicechat-forge-1.20.1-2.4.32.jar",
+      "hash": "0ddc174a52973036e5fcfd2fb72686b3b18aed3f"
+    },
+    {
+      "path": "mods/ysm-2.5.3-forge+mc1.20.1-release.jar",
+      "hash": "b0c727d986d7eea6c130890b5f1244acbe355d26"
+    },
+    {
+      "path": "mods/[Xaero的世界地图] XaerosWorldMap_1.39.12_Forge_1.20.jar",
+      "hash": "3c4005a400ba8270738bbe4c573526749ecf2f8f"
+    },
+    {
+      "path": "mods/[Xaero的小地图] Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+      "hash": "1f23df114da3a8603dbe4781c07e8acf20f6d1ce"
+    },
+    {
+      "path": "mods/[时装盔甲重置版] cosmeticarmorreworked-1.20.1-v1a.jar",
+      "hash": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea"
+    },
+    {
+      "path": "mods/[机械动力：创意传动] create_connected-1.1.10-mc1.20.1-all.jar",
+      "hash": "eea1d04aee638689a99acf66457327b13a4b3f96"
+    },
+    {
+      "path": "mods/[机械动力：筛子] createsifter-1.20.1-1.8.6-6.0.6.jar",
+      "hash": "392d21477c1bba6c47f2a5fced662875b016a09e"
+    },
+    {
+      "path": "mods/[物品栏HUD+] inventoryhud.forge.1.20.1-3.4.26.jar",
+      "hash": "f0adda10a3d6549e6dfdffd41e72270c61c8a302"
+    },
+    {
+      "path": "mods/[玉 __] Jade-1.20.1-Forge-11.13.2.jar",
+      "hash": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c"
+    },
+    {
+      "path": "mods/[苹果皮] appleskin-forge-mc1.20.1-2.5.1.jar",
+      "hash": "81919356f84eab14258db98924b66c3c38e372b1"
+    },
+    {
+      "path": "mods/[鼠标手势] MouseTweaks-forge-mc1.20.1-2.25.1.jar.disabled",
+      "hash": "d751153e722a4e014691c83f39f5b07c6ec5333c"
+    },
+    {
+      "path": "options.txt",
+      "hash": "742d58742b5445c2426787ec1d62a3247050aee6"
+    },
+    {
+      "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
+      "hash": "7049cc12935ff4be20173c908ad946f530861a4c"
+    },
+    {
+      "path": "resourcepacks/FreshAnimations_v1.10.1.zip",
+      "hash": "7747988f7cd47f5e46dbec54474126223ec95a47"
+    },
+    {
+      "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip",
+      "hash": "3cb5caa32577ba2d3a6b15b70c99c612404b04cd"
+    },
+    {
+      "path": "resourcepacks/乌托邦七彩花透明GUI.zip",
+      "hash": "7b6d3b0c72ae56f0ab01677eecde67dc9065cafe"
+    },
+    {
+      "path": "resourcepacks/乌托邦自定义音乐版本3.5.zip",
+      "hash": "0a0548b6879484c214bdc37c928ca5ccdd18e1e3"
+    },
+    {
+      "path": "resourcepacks/修复动作弯曲.zip",
+      "hash": "107e86b734ef43f2edd6108885723e437053d20a"
+    },
+    {
+      "path": "resourcepacks/更好的连接透明玻璃Clean_Connected_Glass(1.20fufu修复版).zip",
+      "hash": "9502e40f23e14e4304ccd2b63c3fea5206fa0de5"
+    },
+    {
+      "path": "resourcepacks/梧桐：加减法Re.zip",
+      "hash": "5cb599acfcfb68f3668e1c52243b25f49c6f4ba6"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI兼容版.zip",
+      "hash": "46c25230dff183eea3a3eaca0686c844c00d5442"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/font/default.json",
+      "hash": "3af13fac4f80cedaf0007ed7b218fe5eea611c36"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/font/uniform.json",
+      "hash": "3af13fac4f80cedaf0007ed7b218fe5eea611c36"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/lang/en_us.json",
+      "hash": "43057796e1c1300df488f8cdab0bd7a13f16e758"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/lang/zh_cn.json",
+      "hash": "69b0a5c0357f2fd47ce0132966e03472a0929e63"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/lang/zh_hk.json",
+      "hash": "31496fe5240500ab09f95366b73508c30312a538"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/lang/zh_tw.json",
+      "hash": "31496fe5240500ab09f95366b73508c30312a538"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/10.png",
+      "hash": "8ebb8a36be22ca253a6b2300a6ca56eb36f70f38"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/100.png",
+      "hash": "470f78724f0aedff4425c2f972bf2ec8ba99327d"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/101.png",
+      "hash": "082f8f02a9f7b5022676a7efd2542302cab44095"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/102.png",
+      "hash": "bbee386bf52f172bdcd49bcc27652fe7500afcf5"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/103.png",
+      "hash": "6d762e33acc1f180a5ed871e9cf888ed4ff9e335"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/104.png",
+      "hash": "b510f5f0517cee244d9c72ba91e77c3551a9ec77"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/105.png",
+      "hash": "965116cbf83099f377130c76e30672485bb76af2"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/106.png",
+      "hash": "61bf1f936853c289f4334d082602aacd36fe248e"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/107.png",
+      "hash": "cc36bf3f4d439406f5b15de03e7e0470023d840c"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/108.png",
+      "hash": "0d23568b3906822128e1c408a813f63c67cc66bb"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/109.png",
+      "hash": "bd935b39cfb3de120a83d5ae62c68cd295a44684"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/11.png",
+      "hash": "4fb044ae0067f0ef52f7fbafa49b6dd198413896"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/110.png",
+      "hash": "577396bee1fc1bd6a9e77e0c1fa6d492418c134c"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/111.png",
+      "hash": "78e425d7a7ee625da92df20fda296a08a13e56eb"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/112.png",
+      "hash": "76767c5b16f6ca59ec3ac63f2fce514d42ce86d7"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/113.png",
+      "hash": "4a891ba706eb05fc605a5180555e5b58c810b4c7"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/114.png",
+      "hash": "bb9d192ae3b164979a1a1e18ab3a2eb833d87e75"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/115.png",
+      "hash": "b5bffea031b52dec3e8ad513f7e3d7e2de2be613"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/116.png",
+      "hash": "4c865edde19ef9405b191fab693d369e44c08af5"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/117.png",
+      "hash": "aab46be5bd5afe9573882a9b89afae67c3075e48"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/118.png",
+      "hash": "169f3bf73be0e78ffaedd680b74d0e47d66e8703"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/119.png",
+      "hash": "e656b7463189319fe176dc59aa944d7a2c9413e9"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/4.png",
+      "hash": "6949a6f5d6194ed5ad3529108996bf338af2f618"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/5.png",
+      "hash": "12bc9f3e2b1ef3ea1b82aad1abb06ae5d826fc5d"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/51.png",
+      "hash": "4f4ec38920583ca83ce8538e23bae9a28db3d129"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/52.png",
+      "hash": "05cf66a64f507423fdaf9567c180b0fbb3eece48"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/53.png",
+      "hash": "c50358ba3619cd5950bf891dba6b0dbe1ce6cb60"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/54.png",
+      "hash": "f195b951d6ecc27917bf368c6c1d6e535e8606f2"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/55.png",
+      "hash": "6d1301728dfe8ed6a1fbeec4b36c7799718e6c06"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/56.png",
+      "hash": "55fd5c1ea76c0a6d753466ad456f019c4fa1dabf"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/57.png",
+      "hash": "5967c9efa9a0954948064d7a746d9519511eaf58"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/58.png",
+      "hash": "8d04f793d1e6edc7f4d646dd1e4736cdfe076660"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/59.png",
+      "hash": "fa814b5b029fa677210a18487ea8937f32c40274"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/6.png",
+      "hash": "b8ae97bcb23599cba467d0326361f5d4f702dfdb"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/60.png",
+      "hash": "014e5c12416d98f8d2b314695b33b4e62c3ef85b"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/61.png",
+      "hash": "159c73bbf5187feec720e3a7a9f2eb49b1db60ec"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/62.png",
+      "hash": "88a7a063de7a9e5f3b12cdd3a5085029792772ea"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/63.png",
+      "hash": "58370e170ef14ee431159a8d6e5395e02e7d95a4"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/64.png",
+      "hash": "7f8e192679c3eb5442995bd3d8207b923baf918c"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/65.png",
+      "hash": "26cd1b1bfd92949c8d8150baa4f489fb3fd5e42a"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/66.png",
+      "hash": "9c68674c0b1a7e65c068197f1b8f87de36190118"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/67.png",
+      "hash": "55ae457db0c53e6591e0fdbad10948c35b3ba874"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/68.png",
+      "hash": "2a3bceb010d398f913f5d18686dd4ff7bb9528ba"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/7.png",
+      "hash": "df6348e60f4a7d64564f99c62f2c795d8dc8481c"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/70.png",
+      "hash": "80281d54b8b52f62339ec78dfb5f6e4c0520675f"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/71.png",
+      "hash": "98565150805b1d25dcbe99db74a7dff8ff65a03b"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/72.png",
+      "hash": "6b9b609f18f115c0f14a8c34c3c97d72f0efa82e"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/73.png",
+      "hash": "02dfb8684c0167cecdc101db13686a973e5a0445"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/74.png",
+      "hash": "ac3ea5612aabf940780cf4a723bef30ff739daae"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/75.png",
+      "hash": "55dd09649795d6f6a35780f00444f2a7114e7288"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/76.png",
+      "hash": "33592431bf4c4e425d29edea99687ee2d9c8adde"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/77.png",
+      "hash": "c239b58c3fd0ea9de9a89306a18f84ffa3b63558"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/78.png",
+      "hash": "6fe0b21a9c1002b7ca9670304002e2a00597fb30"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/79.png",
+      "hash": "f9f7dba9120a440ade6691de31346cd7cf7dc9f2"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/8.png",
+      "hash": "5ae02ef4b673863c5bd05e1712eed198b25f8f49"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/80.png",
+      "hash": "955559b232352a67179450a219a8ead3b4c83639"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/81.png",
+      "hash": "fa11b749e639e6ffab394cfb9fe8a68185d7a1c4"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/82.png",
+      "hash": "8b160d083b6750cb91f9d4e282056ccdb814b4bf"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/83.png",
+      "hash": "0ed14f84a87314aea9f265ef3450ce4a63b1b276"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/84.png",
+      "hash": "77a090a01c89b805b018341d5bbbff4c5e4ea7db"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/85.png",
+      "hash": "f3af6185fb630d31db516d270420293688af51e4"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/86.png",
+      "hash": "ccbb957a03595003e4fab0b92742289d9cb22be7"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/87.png",
+      "hash": "a2a3a369daf756992437f710f1773db25756a640"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/88.png",
+      "hash": "86ba6f280a24b587945d1d154ad84e6dcc680e92"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/89.png",
+      "hash": "27ffb3d7b1a6b7801a18b2557c0c6e2a56042ca9"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/9.png",
+      "hash": "00c14f8617d482c3d3cf566e4340105655dd55de"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/90.png",
+      "hash": "4ad4e8b24dda790421b34b9fbbbcaa9ea8c6d697"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/91.png",
+      "hash": "b19d9a60356bab8a96426ab2790ffd11f43d4da0"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/92.png",
+      "hash": "2c729431cf64d07b793e9598551190e795cd56d2"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/93.png",
+      "hash": "d1dd661200d07265d3ebd1abfbace27a36da8a81"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/94.png",
+      "hash": "d5ed71b0a580a8a01ea3bd5260739742fd1022d9"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/95.png",
+      "hash": "e2d8c99556f9f7e81061cfeec16c6b49275db7de"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/96.png",
+      "hash": "73a074bb4f9b0674c7a50d4efa3a6967468ab894"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/97.png",
+      "hash": "9a11a0968cb4702ad6ab6634679eb4d74f4c3730"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/98.png",
+      "hash": "416d7f913981125c60c108fc7de1ed214728edfc"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/99.png",
+      "hash": "0a7f4196835daf15e0df6158bd14da96a4b5e1c5"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/b100.png",
+      "hash": "5f72030b93aff97eefef9b3f931d08a9c1d49b02"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/b110.png",
+      "hash": "fb48eff1d422e780f13f20f1a76d7af072ffc6bf"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/b111.png",
+      "hash": "02007c3ad67f02c0957b5fec9b689585f6945120"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/b112.png",
+      "hash": "fbef7ec682259a32a572ca9c7f5fbe2aa21969ed"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/b113.png",
+      "hash": "23375d1cea704b7b169f451864eda495eb6568bb"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/b114.png",
+      "hash": "0237a2427578591e77d96e97ec0815a761696fca"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/b115.png",
+      "hash": "1fb5a4156f38bc9f10dec04f7a0ef60405b39317"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/b116.png",
+      "hash": "3c1f0b24e9d08a39711c6c26f1bbafc24fc0985f"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/b117.png",
+      "hash": "6ec4735bffdd87cafa71f1d02df32488234f21dd"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/b118.png",
+      "hash": "5a29a942b3b96f88c9bf02a6884eaabf81d8a009"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/font/b119.png",
+      "hash": "fcd4bd66e711eabdf60c489ffb1cf730b5c955fb"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/accessibility.png",
+      "hash": "c1ef30b631ab66b417c32994da49bbd30338a01e"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/bars.png",
+      "hash": "74cacb91250833c2a8d0bfc32a02b754b30d4650"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/anvil.png",
+      "hash": "b392097d9fb5a36db7928ab346a81c4f2a48cb3d"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/beacon.png",
+      "hash": "ed08119a2c0e9be9cf1084c6a3d362852186cc7e"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/blast_furnace.png",
+      "hash": "691806153b2ec5ea17fc187e041c56249d383870"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/brewing_stand.png",
+      "hash": "a3b3df7f87ebb81348c51c64e0829ff7aa52c184"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/cartography_table.png",
+      "hash": "d5bb43788aa55bdbcca36e5a87b1fd221b4e1ce2"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/crafter.png",
+      "hash": "e5d745d0d00499caab7bffb12f3fc18a2ecf316a"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/crafting_table.png",
+      "hash": "34a1dd06da110f1260a3dc0cc3274f56137cc60c"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/dispenser.png",
+      "hash": "28e89d31541e061ce52a6d357afd9e9c71ec8ccb"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/enchanting_table.png",
+      "hash": "890dd776b39d11d9ef7573f60a429a01931aa697"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/furnace.png",
+      "hash": "9777b243e6f73ba99c1f30600ec50f79b1529cd6"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/gamemode_switcher.png",
+      "hash": "cd1e691d74405ddba3b65b1181ce8c5a7f83d2c6"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/generic_54.png",
+      "hash": "f1675fafbfa188e2dee413d511c3b83851370a77"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/grindstone.png",
+      "hash": "753f55ae310ff6a8ea2f05f235b2c0c85ccf5e3b"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/hopper.png",
+      "hash": "5683821875f53518e41408fb2685e5462818ed69"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/loom.png",
+      "hash": "0e357bbe4a498ef8d7a6c34b0581edf3b6625682"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/shulker_box.png",
+      "hash": "5b837d43891ff20bf0f2a25518a06a2705e8c452"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/smithing.png",
+      "hash": "a43232af2cc2fd4c34f7dc33dc54a839521b1b9e"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/smoker.png",
+      "hash": "c2465c500e3c5eb48a9c9ad56a61bbe9ab3b8e5a"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/container/stonecutter.png",
+      "hash": "6f7f1e5da810e39d4f24305119fa61c13e8f9219"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/icons.png",
+      "hash": "3e173acd9b6eeea5151eae5b99b4b3c2489cac78"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/light_dirt_background.png",
+      "hash": "49683af2e07e9d967c711e14baf224ed81b8b383"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/options_background.png",
+      "hash": "fc0acce2642d45a51b122caaacbbbfb9b5f938b2"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/recipe_button.png",
+      "hash": "7ba053a1d657846480d0506f5f37068de27ed21a"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/tab_button.png",
+      "hash": "3be3a7b703172781d2c962600c74c588e5db9bf9"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/assets/minecraft/textures/gui/widgets.png",
+      "hash": "c18175da73e193f150748fe4a3124412fbf0401a"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/pack.mcmeta",
+      "hash": "f34e17b522b7d61df689730ae2e072351cc4ecd8"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/pack.png",
+      "hash": "be0f8221dc682d41432498f0d8a50f92d338db73"
+    },
+    {
+      "path": "resourcepacks/梧桐：多彩UI完整版/readme.txt",
+      "hash": "24d33d696dd15ccf410d6ffab74f11980f5051e1"
+    },
+    {
+      "path": "resourcepacks/梧桐：毛绒树叶多彩版.zip",
+      "hash": "172c5fc6d738f02bf11c4a236a4298652c643fca"
+    },
+    {
+      "path": "resourcepacks/梧桐：毛绒树叶香草版.zip",
+      "hash": "ee4c949273110282566858a11a7a181c11825e4a"
+    },
+    {
+      "path": "resourcepacks/梧桐：红石衍生.zip",
+      "hash": "6a958789e09fc065ba390db0df53c5a816d15b08"
+    },
+    {
+      "path": "resourcepacks/梧桐：衍生  v0.4.zip",
+      "hash": "7a92fd1f2d99910c53408f4d01630cd29394f109"
+    },
+    {
+      "path": "resourcepacks/汉化资源包.zip",
+      "hash": "c04c5ace21e3dbefb83b1fff0d5e3698d9d0cc29"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "be3c8528a0002576114588b3d540a07bd8840baf"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip",
+      "hash": "c9f1724fbe77e1d36afab9612b4aaac693bc84e4"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt",
+      "hash": "e724264dcbde9733c6a13705a1101f2b0cb9e039"
+    },
+    {
+      "path": "shaderpacks/Kappa_v5.3.zip",
+      "hash": "620388c59df919fc29f8762268942f4871c2fb55"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "neoforge",
+      "version": "47.1.105"
+    }
+  ]
+}
